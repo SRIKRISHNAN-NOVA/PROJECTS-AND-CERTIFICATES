@@ -1,0 +1,733 @@
+Unnamed: 0.1,Unnamed: 0,Text,Sentiment,Timestamp,User,Platform,Hashtags,Retweets,Likes,Country,Year,Month,Day,Hour
+0,0,enjoying a beautiful day at the park!,positive,15-01-2023 12:30,user123,twitter,#nature #park,15,30,usa,2023,1,15,12
+1,1,traffic was terrible this morning.,negative,15-01-2023 08:45,commuterx,twitter,#traffic #morning,5,10,canada,2023,1,15,8
+2,2,just finished an amazing workout! 💪,positive,15-01-2023 15:45,fitnessfan,instagram,#fitness #workout,20,40,usa,2023,1,15,15
+3,3,excited about the upcoming weekend getaway!,positive,15-01-2023 18:20,adventurex,facebook,#travel #adventure,8,15,uk,2023,1,15,18
+4,4,trying out a new recipe for dinner tonight.,neutral,15-01-2023 19:55,chefcook,instagram,#cooking #food,12,25,australia,2023,1,15,19
+5,5,feeling grateful for the little things in life.,positive,16-01-2023 09:10,gratitudenow,twitter,#gratitude #positivevibes,25,50,india,2023,1,16,9
+6,6,rainy days call for cozy blankets and hot cocoa.,positive,16-01-2023 14:45,rainydays,facebook,#rainydays #cozy,10,20,canada,2023,1,16,14
+7,7,the new movie release is a must-watch!,positive,16-01-2023 19:30,moviebuff,instagram,#movienight #mustwatch,15,30,usa,2023,1,16,19
+8,8,political discussions heating up on the timeline.,negative,17-01-2023 08:00,debatetalk,twitter,#politics #debate,30,60,usa,2023,1,17,8
+9,9,missing summer vibes and beach days.,neutral,17-01-2023 12:20,beachlover,facebook,#summer #beachdays,18,35,australia,2023,1,17,12
+10,10,just published a new blog post. check it out!,positive,17-01-2023 15:15,bloggerx,instagram,#blogging #newpost,22,45,usa,2023,1,17,15
+11,11,feeling a bit under the weather today.,negative,18-01-2023 10:30,wellnesscheck,twitter,#sickday #health,7,15,canada,2023,1,18,10
+12,12,exploring the city's hidden gems.,positive,18-01-2023 14:50,urbanexplorer,facebook,#cityexplore #hiddengems,12,25,uk,2023,1,18,14
+13,13,"new year, new fitness goals! 💪",positive,18-01-2023 18:00,fitjourney,instagram,#newyear #fitnessgoals,28,55,usa,2023,1,18,18
+14,14,technology is changing the way we live.,neutral,19-01-2023 09:45,techenthusiast,twitter,#tech #innovation,15,30,india,2023,1,19,9
+15,15,reflecting on the past and looking ahead.,positive,19-01-2023 13:20,reflections,facebook,#reflection #future,20,40,usa,2023,1,19,13
+16,16,just adopted a cute furry friend! 🐾,positive,19-01-2023 17:10,petadopter,instagram,#petadoption #furryfriend,15,30,canada,2023,1,19,17
+17,17,late-night gaming session with friends.,positive,20-01-2023 00:05,gamerx,twitter,#gaming #latenight,18,35,uk,2023,1,20,0
+18,18,attending a virtual conference on ai.,neutral,20-01-2023 11:30,techconference,facebook,#ai #techconference,25,50,usa,2023,1,20,11
+19,19,winter blues got me feeling low.,negative,20-01-2023 15:15,winterblues,instagram,#winterblues #mood,8,15,usa,2023,1,20,15
+20,20,sipping coffee and enjoying a good book.,positive,21-01-2023 08:40,bookworm,twitter,#reading #coffeetime,22,45,india,2023,1,21,8
+21,21,exploring the world of virtual reality.,positive,21-01-2023 13:20,vrexplorer,facebook,#vr #virtualreality,15,30,usa,2023,1,21,13
+22,22,productive day ticking off my to-do list.,positive,21-01-2023 16:45,productivitypro,instagram,#productivity #workfromhome,30,60,usa,2023,1,21,16
+23,23,just finished a challenging workout routine.,positive,22-01-2023 09:15,fitnesswarrior,twitter,#fitness #challengeaccepted,20,40,uk,2023,1,22,9
+24,24,celebrating a milestone at work! 🎉,positive,22-01-2023 14:30,careermilestone,facebook,#career #milestone,12,25,canada,2023,1,22,14
+25,25,sunday brunch with friends.,positive,22-01-2023 12:00,brunchbuddy,instagram,#brunch #friends,15,30,uk,2023,1,22,12
+27,28,learning a new language for personal growth.,positive,23-01-2023 16:20,languagelearner,facebook,#languagelearning #personalgrowth,25,50,india,2023,1,23,16
+28,29,quiet evening with a good book.,positive,23-01-2023 19:45,booklover,instagram,#reading #quiettime,15,30,australia,2023,1,23,19
+29,30,reflecting on the importance of mental health.,positive,24-01-2023 11:30,mentalhealthmatters,twitter,#mentalhealth #selfcare,22,45,usa,2023,1,24,11
+30,31,new painting in progress! 🎨,positive,24-01-2023 15:00,artistinaction,facebook,#art #paintinginprogress,12,25,canada,2023,1,24,15
+31,32,weekend road trip to explore scenic views.,positive,24-01-2023 17:30,roadtripper,instagram,#roadtrip #scenicviews,18,35,uk,2023,1,24,17
+32,33,enjoying a cup of tea and watching the sunset.,positive,25-01-2023 18:00,sunsetwatcher,twitter,#teatime #sunset,15,30,india,2023,1,25,18
+33,34,coding a new project with enthusiasm.,positive,25-01-2023 13:15,codeenthusiast,facebook,#coding #enthusiasm,30,60,usa,2023,1,25,13
+34,35,feeling inspired after attending a workshop.,positive,26-01-2023 09:45,workshopattendee,instagram,#inspiration #workshop,25,50,usa,2023,1,26,9
+35,36,winter sports day at the local park.,positive,26-01-2023 14:20,wintersports,twitter,#wintersports #fun,15,30,canada,2023,1,26,14
+36,37,quality time with family this weekend.,positive,26-01-2023 17:40,familytime,facebook,#familytime #weekend,22,45,uk,2023,1,26,17
+37,38,attending a live music concert tonight.,positive,27-01-2023 20:00,musiclover,instagram,#music #concertnight,18,35,usa,2023,1,27,20
+38,39,practicing mindfulness with meditation.,positive,27-01-2023 12:30,mindfulmoments,twitter,#mindfulness #meditation,15,30,india,2023,1,27,12
+39,40,trying out a new dessert recipe.,positive,27-01-2023 16:10,dessertexplorer,facebook,#dessert #cooking,12,25,canada,2023,1,27,16
+40,41,excited about the upcoming gaming tournament.,positive,28-01-2023 09:00,gamingenthusiast,instagram,#gaming #tournament,30,60,usa,2023,1,28,9
+41,42,planning a garden makeover for spring.,positive,28-01-2023 14:45,gardenplanner,twitter,#gardening #spring,25,50,usa,2023,1,28,14
+42,43,celebrating a friend's birthday tonight! 🎂,positive,28-01-2023 19:30,birthdaybash,facebook,#birthday #celebration,15,30,uk,2023,1,28,19
+43,44,feeling accomplished after a productive day.,positive,29-01-2023 17:00,productivitywin,instagram,#accomplished #success,22,45,india,2023,1,29,17
+44,45,a cozy evening with a good movie.,positive,29-01-2023 20:20,movienight,twitter,#cozynight #movietime,18,35,canada,2023,1,29,20
+45,46,exploring local art galleries this weekend.,positive,30-01-2023 11:30,artexplorer,facebook,#art #galleryexplore,15,30,usa,2023,1,30,11
+46,47,new book release from my favorite author!,positive,30-01-2023 15:45,bookwormx,instagram,#bookrelease #favoriteauthor,12,25,uk,2023,1,30,15
+47,48,attending a virtual reality meetup.,positive,30-01-2023 18:30,vrmeetup,twitter,#vrmeetup #virtualreality,28,55,india,2023,1,30,18
+48,49,reflecting on the beauty of nature.,positive,31-01-2023 10:45,naturelover,facebook,#nature #reflection,15,30,australia,2023,1,31,10
+49,50,cooking a special dinner for loved ones.,positive,31-01-2023 19:00,chefathome,instagram,#cooking #specialdinner,20,40,usa,2023,1,31,19
+50,51,feeling optimistic about the week ahead.,positive,31-01-2023 16:20,optimisticmindset,twitter,#optimism #newweek,15,30,canada,2023,1,31,16
+51,52,starting a new fitness challenge tomorrow! 💪,positive,01-02-2023 08:00,fitnesschallenge,facebook,#fitnesschallenge #newbeginnings,22,45,uk,2023,2,1,8
+52,53,sunday bike ride through scenic trails.,positive,01-02-2023 13:30,bikeexplorer,instagram,#bikeride #scenictrails,18,35,usa,2023,2,1,13
+53,55,can't believe the injustice happening in our society.,anger,11-02-2023 09:30,socialjustice,twitter,#injustice #angry,20,40,canada,2023,2,11,9
+54,56,feeling a sense of fear after watching a thriller movie.,fear,11-02-2023 21:15,thrillerfan,instagram,#fear #thrillermovie,15,30,usa,2023,2,11,21
+55,57,heartbroken after hearing the news about a natural disaster.,sadness,12-02-2023 14:45,empathyfirst,facebook,#sadness #naturaldisaster,25,50,india,2023,2,12,14
+56,58,the state of the world's environment is just disgusting.,disgust,12-02-2023 18:20,ecoawareness,twitter,#disgust #environment,18,35,uk,2023,2,12,18
+57,59,pure happiness: celebrating a loved one's achievement!,happiness,13-02-2023 10:00,proudfriend,instagram,#happiness #celebration,30,60,usa,2023,2,13,10
+58,60,laughter is the best medicine—enjoying a comedy show.,joy,13-02-2023 19:30,comedyfan,facebook,#joy #comedyshow,22,45,canada,2023,2,13,19
+59,61,sharing love and positive vibes with everyone! ❤️,love,14-02-2023 08:30,lovespreader,twitter,#love #spreadlove,15,30,australia,2023,2,14,8
+60,62,an amusing incident brightened up my day!,amusement,14-02-2023 14:20,amusedsoul,instagram,#amusement #funtimes,18,35,uk,2023,2,14,14
+61,63,enjoying a quiet evening with a book and some tea.,enjoyment,14-02-2023 19:45,bookloveragain,facebook,#enjoyment #booktime,25,50,canada,2023,2,14,19
+62,64,admiring the beauty of nature during a peaceful hike.,admiration,15-02-2023 11:30,natureadmirer,twitter,#admiration #nature,20,40,usa,2023,2,15,11
+63,65,sending affectionate vibes to all my followers!,affection,15-02-2023 16:00,affectionsender,instagram,#affection #positivevibes,15,30,usa,2023,2,15,16
+64,66,experiencing awe at the breathtaking sunset.,awe,15-02-2023 20:30,awestruck,facebook,#awe #breathtaking,22,45,australia,2023,2,15,20
+65,67,disappointed with the service at a local restaurant.,disappointed,16-02-2023 09:00,foodiegonewrong,twitter,#disappointed #badservice,18,35,india,2023,2,16,9
+66,68,a surprise gift from a friend made my day!,surprise,16-02-2023 14:45,happysurprise,instagram,#surprise #gift,25,50,usa,2023,2,16,14
+67,69,finding acceptance in the midst of life's challenges.,acceptance,16-02-2023 18:20,acceptanceseeker,facebook,#acceptance #challenges,15,30,canada,2023,2,16,18
+68,70,overflowing with adoration for my adorable pet! 🐾,adoration,17-02-2023 10:45,petadorer,twitter,#adoration #petlove,22,45,uk,2023,2,17,10
+69,71,anticipating a thrilling adventure in the coming weeks.,anticipation,17-02-2023 07:30,adventureawaits,instagram,#anticipation #adventure,20,40,usa,2023,2,17,7
+70,72,a bitter experience turned into a valuable lesson.,bitter,17-02-2023 15:00,learnfrombitter,facebook,#bitterlesson #growth,18,35,usa,2023,2,17,15
+71,73,finding calmness in the midst of a busy day.,calmness,18-02-2023 09:30,zenmaster,twitter,#calmness #peacefulmind,15,30,india,2023,2,18,9
+72,74,confusion clouds my mind as i navigate through decisions.,confusion,18-02-2023 14:20,confusedmind,instagram,#confusion #decisionmaking,25,50,uk,2023,2,18,14
+73,75,excitement building up for the upcoming vacation!,excitement,18-02-2023 18:45,vacationdreamer,facebook,#excitement #travelplans,22,45,canada,2023,2,18,18
+74,76,kindness witnessed today restored my faith in humanity.,kind,19-02-2023 11:30,kindnessprevails,twitter,#kindness #humanity,20,40,usa,2023,2,19,11
+75,77,pride in achieving a personal milestone.,pride,19-02-2023 16:00,personalachiever,instagram,#pride #milestone,30,60,australia,2023,2,19,16
+76,78,a moment of shame for not standing up against injustice.,shame,19-02-2023 19:45,reflectiveself,facebook,#shame #injustice,15,30,india,2023,2,19,19
+77,79,fuming with anger after a heated argument.,anger,20-02-2023 09:30,angrydebater,twitter,#anger #argument,20,40,canada,2023,2,20,9
+78,80,the fear of the unknown is keeping me up at night.,fear,20-02-2023 21:15,fearfuldreamer,instagram,#fear #unknown,15,30,usa,2023,2,20,21
+79,81,heartfelt sadness after bidding farewell to a dear friend.,sadness,21-02-2023 14:45,farewellheart,facebook,#sadness #farewell,25,50,india,2023,2,21,14
+80,82,the state of corruption in our society is utterly disgusting.,disgust,21-02-2023 18:20,anticorruption,twitter,#disgust #corruption,18,35,uk,2023,2,21,18
+81,83,overflowing happiness: welcoming a new family member!,happiness,22-02-2023 10:00,newparentjoy,instagram,#happiness #newfamilymember,30,60,uk,2023,2,22,10
+82,84,laughter is the key to joy—attending a stand-up comedy show.,joy,22-02-2023 19:30,standupfan,facebook,#joy #standupcomedy,22,45,canada,2023,2,22,19
+83,85,sending love to all my followers on this beautiful day! ❤️,love,23-02-2023 08:30,lovesender,twitter,#love #spreadlove,15,30,australia,2023,2,23,8
+84,86,amused by the antics of my pet—it's pure amusement!,amusement,23-02-2023 14:20,petamuser,instagram,#amusement #petantics,18,35,uk,2023,2,23,14
+85,87,enjoying every moment of this trip—pure enjoyment!,enjoyment,23-02-2023 19:45,travelexplorer,facebook,#enjoyment #travel,25,50,usa,2023,2,23,19
+86,88,admiring the dedication of volunteers at a local charity.,admiration,24-02-2023 11:30,charityadmirer,twitter,#admiration #volunteers,20,40,usa,2023,2,24,11
+87,89,sending affectionate vibes to friends and family.,affection,24-02-2023 16:00,familylover,instagram,#affection #familylove,15,30,usa,2023,2,24,16
+88,90,awe-struck by the beauty of the night sky.,awe,24-02-2023 20:30,stargazer,facebook,#awe #starrynight,22,45,australia,2023,2,24,20
+89,91,disappointed with the lack of progress in a personal project.,disappointed,25-02-2023 09:00,projectstruggle,twitter,#disappointed #project,18,35,india,2023,2,25,9
+90,92,a surprise visit from an old friend brought tears of joy.,surprise,25-02-2023 14:45,joyfulreunion,instagram,#surprise #oldfriends,25,50,usa,2023,2,25,14
+91,93,embracing acceptance of life's ups and downs.,acceptance,25-02-2023 18:20,lifeacceptance,facebook,#acceptance #lifejourney,15,30,canada,2023,2,25,18
+92,94,overflowing adoration for a cute rescue puppy! 🐶,adoration,26-02-2023 10:45,puppyadmirer,twitter,#adoration #puppylove,22,45,uk,2023,2,26,10
+93,95,anticipating the release of a much-awaited movie.,anticipation,26-02-2023 07:30,moviebuff2,instagram,#anticipation #movierelease,20,40,australia,2023,2,26,7
+94,96,bitter experience at the customer service department.,bitter,26-02-2023 15:00,customerwoes,facebook,#bitterexperience #customerservice,18,35,usa,2023,2,26,15
+95,97,finding calmness amidst the chaos of daily life.,calmness,27-02-2023 09:30,calmsoul,twitter,#calmness #innerpeace,15,30,india,2023,2,27,9
+96,98,confusion reigns as i try to make sense of recent events.,confusion,27-02-2023 14:20,confusedmind2,instagram,#confusion #makingsense,25,50,uk,2023,2,27,14
+97,99,excitement building up for a surprise birthday party.,excitement,27-02-2023 18:45,birthdayexcite,facebook,#excitement #surpriseparty,22,45,canada,2023,2,27,18
+98,100,witnessed an act of kindness that made my day.,kind,28-02-2023 11:30,kindnessobserver,twitter,#kindness #actsofkindness,20,40,usa,2023,2,28,11
+99,101,pride in completing a challenging fitness challenge.,pride,28-02-2023 16:00,fitachiever,instagram,#pride #fitnesschallengecompleted,30,60,uk,2023,2,28,16
+100,102,a moment of shame for not speaking up against injustice.,shame,28-02-2023 19:45,reflectiveself2,facebook,#shame #injustice,15,30,india,2023,2,28,19
+101,103,reflecting on the beauty of diversity in our world.,acceptance,01-03-2023 10:45,diversitylover,twitter,#acceptance #diversity,22,45,australia,2023,3,1,10
+102,104,excitement for a quiet evening with a good book.,excitement,01-03-2023 13:30,bookwormjoy,instagram,#excitement #booktime,18,35,usa,2023,3,1,13
+103,105,feeling bitter about the unfairness in the workplace.,bitter,01-03-2023 17:45,workplacewoes,twitter,#bitter #unfairness,15,30,canada,2023,3,1,17
+104,106,calmness prevails as i practice mindfulness.,calmness,02-03-2023 18:00,mindfulme,facebook,#calmness #mindfulness,15,30,uk,2023,3,2,18
+105,107,confusion surrounds me as i navigate through life's choices.,confusion,02-03-2023 13:15,confusedmind3,instagram,#confusion #lifechoices,30,60,usa,2023,3,2,13
+106,108,excitement for a weekend road trip to explore new places.,excitement,02-03-2023 16:45,roadtripper2,twitter,#excitement #weekendadventure,25,50,india,2023,3,2,16
+107,109,kindness witnessed today restores my faith in humanity.,kind,03-03-2023 11:30,kindnessprevails2,facebook,#kindness #humanityrestored,22,45,usa,2023,3,3,11
+108,110,pride in accomplishing personal and professional goals.,pride,03-03-2023 14:30,goalachiever,instagram,#pride #accomplishments,12,25,canada,2023,3,3,14
+109,111,shame for not being true to my values in a difficult situation.,shame,03-03-2023 12:00,reflectiveself3,twitter,#shame #integrity,15,30,uk,2023,3,3,12
+110,112,"revisiting old memories, feeling a sense of elation.",elation,15-05-2010 15:30,nostalgiafan,twitter,#elation #memories,20,40,canada,2010,5,15,15
+111,113,the victory of our team brought euphoria to the city.,euphoria,10-08-2021 21:15,sportsfanatic,instagram,#euphoria #victory,15,30,usa,2021,8,10,21
+112,114,"embracing the beauty of nature, a moment of contentment.",contentment,20-06-2011 14:45,naturelover2,facebook,#contentment #nature,25,50,india,2011,6,20,14
+113,115,"meditating by the serene lake, finding inner peace.",serenity,12-02-2022 18:20,zenmaster2,twitter,#serenity #meditation,18,35,uk,2022,2,12,18
+114,116,overflowing with gratitude for life's blessings.,gratitude,25-11-2012 10:00,thankfulheart,instagram,#gratitude #blessed,30,60,australia,2012,11,25,10
+115,117,"hopeful for a brighter tomorrow, despite challenges.",hope,05-04-2013 19:30,optimisticsoul,facebook,#hope #optimism,22,45,usa,2013,4,5,19
+116,118,empowered to make a difference in my community.,empowerment,14-09-2014 08:30,communityleader,twitter,#empowerment #community,15,30,uk,2014,9,14,8
+117,119,compassion in action: supporting a local charity event.,compassion,18-07-2015 14:20,charitysupporter,instagram,#compassion #charityevent,18,35,canada,2015,7,18,14
+118,120,"a moment of tenderness, connecting with loved ones.",tenderness,23-02-2016 19:45,lovingheart,facebook,#tenderness #familytime,25,50,uk,2016,2,23,19
+119,121,arousal of excitement as i await a special announcement.,arousal,30-10-2017 11:30,excitementfan,twitter,#arousal #excitement,20,40,australia,2017,10,30,11
+120,122,enthusiastically diving into a new project.,enthusiasm,15-06-2018 16:00,projectenthusiast,instagram,#enthusiasm #newproject,15,30,usa,2018,6,15,16
+121,123,feeling a sense of fulfillment after reaching a milestone.,fulfillment,28-03-2019 18:20,milestoneachiever,facebook,#fulfillment #milestone,22,45,india,2019,3,28,18
+122,124,reverence for the beauty of a historic landmark.,reverence,11-11-2019 15:00,historylover,twitter,#reverence #history,18,35,uk,2019,11,11,15
+123,125,elation after a surprise reunion with old friends.,elation,02-04-2020 09:30,joyfulreunion2,instagram,#elation #oldfriends,25,50,canada,2020,4,2,9
+124,126,the euphoria of a live music concert under the stars.,euphoria,19-06-2021 14:45,musicenthusiast,facebook,#euphoria #livemusic,15,30,usa,2021,6,19,14
+125,127,contentment in the simplicity of a quiet sunday.,contentment,15-08-2010 10:00,simplejoys,twitter,#contentment #sundaymood,30,60,australia,2010,8,15,10
+126,128,serenity found in the pages of a favorite book.,serenity,22-09-2011 19:30,booklover3,instagram,#serenity #booktime,22,45,uk,2011,9,22,19
+127,129,gratitude for the support received during tough times.,gratitude,10-03-2012 08:30,supportivefriend,facebook,#gratitude #supportive,15,30,india,2012,3,10,8
+128,130,hopeful about the possibilities of a new journey.,hope,05-12-2013 16:00,journeyoptimist,twitter,#hope #newbeginnings,18,35,canada,2013,12,5,16
+129,131,empowerment through learning and personal growth.,empowerment,20-07-2014 11:30,growthseeker,instagram,#empowerment #personalgrowth,25,50,usa,2014,7,20,11
+130,132,compassion towards those in need during the holidays.,compassion,22-12-2015 14:20,holidayhelper,facebook,#compassion #holidaysupport,18,35,usa,2015,12,22,14
+131,133,tenderness in the warmth of a cozy winter evening.,tenderness,10-02-2016 19:45,winterwarmth,twitter,#tenderness #cozyevening,25,50,uk,2016,2,10,19
+132,134,arousal of excitement for an upcoming adventure.,arousal,30-04-2017 11:30,adventureawaits,instagram,#arousal #adventuretime,20,40,australia,2017,4,30,11
+133,135,enthusiasm for a creative project in the making.,enthusiasm,15-09-2018 16:00,creativespirit,facebook,#enthusiasm #creativity,15,30,canada,2018,9,15,16
+134,136,fulfillment in completing a challenging workout routine.,fulfillment,28-06-2019 18:20,fitnessachiever,twitter,#fulfillment #fitnessgoals,22,45,india,2019,6,28,18
+135,137,reverence for the artistry displayed in a museum.,reverence,11-11-2020 15:00,artappreciator,instagram,#reverence #artappreciation,18,35,uk,2020,11,11,15
+136,138,elation after achieving a personal goal.,elation,02-03-2021 09:30,goalachiever2,facebook,#elation #personalachievement,25,50,usa,2021,3,2,9
+137,139,elation over discovering a hidden gem in the city.,elation,18-02-2012 14:30,urbanexplorer2,twitter,#elation #hiddengem,20,40,usa,2012,2,18,14
+138,140,the euphoria of a surprise birthday celebration.,euphoria,05-11-2018 21:45,birthdayjoy,instagram,#euphoria #birthdaysurprise,15,30,uk,2018,11,5,21
+139,141,contentment in the simplicity of a home-cooked meal.,contentment,12-09-2015 13:20,homechef,facebook,#contentment #homecooking,25,50,india,2015,9,12,13
+140,142,serenity found in the melody of a peaceful piano.,serenity,30-07-2016 18:10,musiclover4,twitter,#serenity #peacefulmelody,18,35,canada,2016,7,30,18
+141,143,gratitude for the supportive community around me.,gratitude,20-04-2013 10:30,communitylove,instagram,#gratitude #communitysupport,30,60,usa,2013,4,20,10
+142,144,hopeful about the prospects of a new business venture.,hope,08-12-2017 19:15,entrepreneurhope,facebook,#hope #businessventure,22,45,canada,2017,12,8,19
+143,145,empowerment through mentoring and guiding others.,empowerment,03-06-2014 08:20,mentorempower,twitter,#empowerment #mentorship,15,30,uk,2014,6,3,8
+144,146,compassion shown through acts of kindness in the community.,compassion,15-01-2019 14:50,kindnessinaction,instagram,#compassion #communitykindness,18,35,australia,2019,1,15,14
+145,147,tenderness in a heartfelt message to a loved one.,tenderness,25-12-2016 19:30,loveexpress,facebook,#tenderness #lovenote,25,50,uk,2016,12,25,19
+146,148,arousal of excitement before a much-awaited trip.,arousal,10-03-2018 09:45,travelexcitement,twitter,#arousal #traveladventure,20,40,india,2018,3,10,9
+147,149,enthusiasm for a new artistic project in the works.,enthusiasm,17-09-2020 16:30,artisticspirit,instagram,#enthusiasm #artisticproject,15,30,usa,2020,9,17,16
+148,150,feeling a sense of fulfillment after helping others.,fulfillment,28-08-2011 18:45,helperheart,facebook,#fulfillment #helpingothers,22,45,canada,2011,8,28,18
+149,151,reverence for the historical significance of a landmark.,reverence,01-11-2017 15:30,historybuff,twitter,#reverence #historicalsite,18,35,australia,2017,11,1,15
+150,152,elation after achieving a fitness milestone.,elation,15-06-2019 10:00,fitnessachiever2,instagram,#elation #fitnessmilestone,25,50,uk,2019,6,15,10
+151,153,the euphoria of a successful product launch.,euphoria,03-04-2022 11:45,productlaunchjoy,facebook,#euphoria #productlaunchsuccess,15,30,usa,2022,4,3,11
+152,154,contentment in the embrace of a loved one.,contentment,12-11-2010 20:20,lovingembrace,twitter,#contentment #love,30,60,india,2010,11,12,20
+153,155,serenity found in the beauty of a sunset by the sea.,serenity,22-07-2011 18:30,sunsetwatcher2,instagram,#serenity #sunsetviews,22,45,canada,2011,7,22,18
+154,156,gratitude for the small joys that each day brings.,gratitude,30-03-2012 11:20,joyfulheart2,facebook,#gratitude #smalljoys,15,30,australia,2012,3,30,11
+155,157,hopeful about the potential for personal growth.,hope,05-10-2013 16:40,growthoptimist,twitter,#hope #personaldevelopment,18,35,uk,2013,10,5,16
+156,158,empowerment through learning a new skill.,empowerment,10-07-2014 13:15,skillempower,instagram,#empowerment #skillbuilding,25,50,india,2014,7,10,13
+157,159,compassion in volunteering for a local charity.,compassion,18-12-2015 14:20,charityvolunteer,facebook,#compassion #volunteerwork,18,35,usa,2015,12,18,14
+158,160,tenderness in a quiet moment shared with a pet.,tenderness,10-02-2016 19:45,petlove,twitter,#tenderness #petlove,25,50,canada,2016,2,10,19
+159,161,arousal of excitement for an upcoming festival.,arousal,25-09-2017 11:30,festivalfan,instagram,#arousal #festivalexcitement,20,40,uk,2017,9,25,11
+160,162,enthusiasm for a diy home improvement project.,enthusiasm,15-04-2018 16:00,diyenthusiast,facebook,#enthusiasm #homeimprovement,15,30,australia,2018,4,15,16
+161,163,fulfillment in completing a challenging puzzle.,fulfillment,28-11-2019 18:20,puzzlemaster,twitter,#fulfillment #puzzlechallenge,22,45,india,2019,11,28,18
+162,164,reverence for the wonders of nature on a hiking trail.,reverence,11-05-2020 15:00,natureadmirer,instagram,#reverence #natureexploration,18,35,usa,2020,5,11,15
+163,165,elation after a surprise reunion with a childhood friend.,elation,05-02-2021 09:30,childhoodjoy,facebook,#elation #friendshipreunion,25,50,canada,2021,2,5,9
+164,166,suffering from despair after another setback.,despair,10-03-2021 08:30,strugglingsoul,twitter,#despair #struggle,5,10,usa,2021,3,10,8
+165,167,"overwhelmed by grief, missing a loved one dearly.",grief,05-07-2022 15:45,mourningheart,instagram,#grief #loss,8,15,canada,2022,7,5,15
+166,168,loneliness creeps in as the night grows colder.,loneliness,18-11-2019 21:20,solitarysoul,facebook,#loneliness #isolation,10,20,uk,2019,11,18,21
+167,169,jealousy consumes me as i witness others' success.,jealousy,12-08-2020 11:30,enviousobserver,twitter,#jealousy #envy,12,25,india,2020,8,12,11
+168,170,resentment building up over past betrayals.,resentment,22-05-2018 14:45,bitterheart,instagram,#resentment #bitterness,7,15,australia,2018,5,22,14
+169,171,frustration mounts as obstacles block my path.,frustration,30-01-2017 16:10,blockedgoals,facebook,#frustration #obstacles,10,20,usa,2017,1,30,16
+170,172,"boredom sets in, the day feels endlessly dull.",boredom,28-09-2016 19:45,boredmind,twitter,#boredom #lackofinterest,8,15,canada,2016,9,28,19
+171,173,"anxiety grips my heart, worry clouds my thoughts.",anxiety,15-04-2019 09:00,worriedmind,instagram,#anxiety #worry,12,25,uk,2019,4,15,9
+172,174,intimidation by the unknown future ahead.,intimidation,03-12-2021 18:30,fearfulsoul,facebook,#intimidation #fear,15,30,india,2021,12,3,18
+173,175,helplessness sinks in as challenges pile up.,helplessness,20-06-2020 14:20,overwhelmedheart,twitter,#helplessness #overwhelmed,8,15,australia,2020,6,20,14
+174,176,envy eats away at me as i see others' prosperity.,envy,07-11-2018 11:30,covetousmind,instagram,#envy #desire,10,20,canada,2018,11,7,11
+175,177,regret over missed opportunities haunts my thoughts.,regret,25-08-2017 16:00,remorsefulsoul,facebook,#regret #missedchances,12,25,uk,2017,8,25,16
+176,178,disgust at the sight of injustice and cruelty.,disgust,11-02-2019 09:45,disgustedheart,twitter,#disgust #injustice,7,15,india,2019,2,11,9
+177,179,"drowning in despair, hope slipping through my fingers.",despair,02-04-2016 20:20,hopelessheart,instagram,#despair #hopeless,10,20,usa,2016,4,2,20
+178,180,"grief weighs heavy, tears a constant companion.",grief,18-10-2015 15:30,tearfulsoul,facebook,#grief #tears,12,25,canada,2015,10,18,15
+179,181,"loneliness in a crowded room, a silent cry for connection.",loneliness,12-07-2019 18:10,isolatedmind,twitter,#loneliness #seekingconnection,15,30,uk,2019,7,12,18
+180,182,"jealousy gnaws at my confidence, a toxic emotion.",jealousy,03-06-2018 16:30,selfdoubt,instagram,#jealousy #insecurity,8,15,india,2018,6,3,16
+181,183,"resentment festers, poisoning relationships.",resentment,15-01-2022 12:00,brokentrust,facebook,#resentment #brokentrust,10,20,australia,2022,1,15,12
+182,184,"frustration boils over, a volcanic eruption of emotions.",frustration,10-04-2017 14:45,explosivemind,twitter,#frustration #emotionaloutburst,12,25,usa,2017,4,10,14
+183,185,"boredom settles like dust, life feels mundane.",boredom,28-11-2016 19:00,mundaneheart,instagram,#boredom #monotony,7,15,canada,2016,11,28,19
+184,186,"anxiety grips my chest, a relentless grip on my thoughts.",anxiety,05-09-2018 09:30,restlessmind,facebook,#anxiety #restlessness,10,20,uk,2018,9,5,9
+185,187,"intimidation by the challenges ahead, fear takes hold.",intimidation,22-10-2021 18:30,fearfuljourney,twitter,#intimidation #facingfear,15,30,india,2021,10,22,18
+186,188,"helplessness engulfs me, drowning in a sea of problems.",helplessness,08-05-2019 14:20,overwhelmedsoul,instagram,#helplessness #struggling,8,15,australia,2019,5,8,14
+187,189,"envy poisons my thoughts, coveting others' success.",envy,20-03-2017 11:30,greeneyedmonster,facebook,#envy #success,10,20,canada,2017,3,20,11
+188,190,regret for decisions that led to a painful present.,regret,15-12-2018 16:00,regretfulmind,twitter,#regret #pastchoices,12,25,usa,2018,12,15,16
+189,191,disgust at the corruption that stains society.,disgust,01-07-2016 09:45,corruptedheart,instagram,#disgust #corruption,7,15,uk,2016,7,1,9
+190,192,"sinking in despair, each day darker than the last.",despair,20-08-2020 20:20,drowningsoul,facebook,#despair #darkdays,10,20,india,2020,8,20,20
+191,193,"grief overwhelms, a storm of emotions within.",grief,25-02-2021 15:30,stormyheart,twitter,#grief #emotionalstorm,12,25,canada,2021,2,25,15
+192,194,"loneliness echoes in empty spaces, yearning for connection.",loneliness,12-09-2019 18:10,echoingsoul,instagram,#loneliness #yearningforconnection,15,30,australia,2019,9,12,18
+193,195,"jealousy poisons my thoughts, resentment brewing within.",jealousy,05-08-2018 16:30,poisonedmind,facebook,#jealousy #resentment,8,15,usa,2018,8,5,16
+194,196,"resentment festers, a wound that refuses to heal.",resentment,12-01-2017 12:00,unforgivingsoul,twitter,#resentment #unforgiving,10,20,india,2017,1,12,12
+195,197,"frustration escalates, a thunderstorm of emotions.",frustration,05-04-2022 14:45,thunderingmind,instagram,#frustration #emotionaloutburst,12,25,uk,2022,4,5,14
+196,198,"boredom lingers, a stagnant pool of indifference.",boredom,02-10-2021 19:00,stagnantheart,facebook,#boredom #stagnation,7,15,canada,2021,10,2,19
+197,199,"embarking on a journey of discovery, fueled by curiosity and a thirst for knowledge.",curiosity,15-04-2023 10:15,inquisitivemind,twitter,#curiosity #learning,15,30,usa,2023,4,15,10
+198,200,"lost in the vast sea of information, an indifferent wave in the digital ocean.",indifference,28-11-2022 17:30,apatheticobserver,instagram,#indifference #digitaloverload,7,15,canada,2022,11,28,17
+199,201,"the complex puzzle of life leaves me in a state of perpetual confusion, seeking answers in the chaos.",confusion,02-04-2020 09:45,seekingclarity,facebook,#confusion #lifepuzzle,10,20,uk,2020,4,2,9
+200,202,"a numbness settles over me, a shield against the overwhelming emotions life throws my way.",numbness,10-08-2021 14:00,emotionallydistant,twitter,#numbness #emotionalshield,8,15,india,2021,8,10,14
+201,203,"gazing at the sunset, a melancholic longing for moments that slip through the fingers of time.",melancholy,18-06-2019 20:45,sunsetdreamer,instagram,#melancholy #sunsetmoments,12,25,australia,2019,6,18,20
+202,204,"revisiting old photographs, caught in the embrace of nostalgia's bittersweet symphony.",nostalgia,05-02-2018 15:15,memorylanetraveler,facebook,#nostalgia #memorylane,10,20,usa,2018,2,5,15
+203,205,"torn between conflicting emotions, an ambivalence that paints my decisions in shades of uncertainty.",ambivalence,30-05-2022 11:30,mixedfeelings,twitter,#ambivalence #uncertainchoices,12,25,canada,2022,5,30,11
+204,206,"embracing the ebb and flow of life, finding acceptance in the dance of existence.",acceptance,10-01-2023 16:20,zenlifestyle,instagram,#acceptance #lifejourney,15,30,uk,2023,1,10,16
+205,207,"facing challenges head-on, a determination that fuels the fire within to achieve the impossible.",determination,18-09-2020 13:45,resilientspirit,facebook,#determination #achievetheimpossible,10,20,india,2020,9,18,13
+206,208,"serenity found in the stillness of nature, a tranquil retreat from the chaos of the modern world.",serenity,03-07-2021 19:00,naturesoul,twitter,#serenity #natureretreat,12,25,australia,2021,7,3,19
+207,209,"curiosity leading me down the rabbit hole of knowledge, a perpetual student in life's classroom.",curiosity,08-10-2022 08:15,eternallearner,instagram,#curiosity #knowledgequest,20,40,usa,2022,10,8,8
+208,210,"floating through the day with an air of indifference, detached from the mundane happenings around.",indifference,22-03-2023 16:30,aloofobserver,facebook,#indifference #floatingthroughlife,10,20,canada,2023,3,22,16
+209,211,"entangled in the web of thoughts, confusion reigning as i navigate the labyrinth of ideas.",confusion,15-05-2021 11:45,thoughtexplorer,twitter,#confusion #thoughtlabyrinth,15,30,uk,2021,5,15,11
+210,212,"numb to the chaos, emotions locked away, a stoic facade concealing the inner turmoil.",numbness,28-12-2019 14:30,stoicsoul,instagram,#numbness #stoicfacade,8,15,australia,2019,12,28,14
+211,213,"melancholy whispers in the breeze, a silent conversation with the echoes of forgotten dreams.",melancholy,01-03-2020 19:00,dreamerinsilence,facebook,#melancholy #whispersinthebreeze,12,25,india,2020,3,1,19
+212,214,"stumbling upon an old journal, nostalgia flooding in waves, carrying me to moments long gone.",nostalgia,10-07-2018 15:45,journalkeeper,twitter,#nostalgia #journalmoments,10,20,canada,2018,7,10,15
+213,215,"a tapestry of conflicting feelings, weaving through uncertainty, caught in the threads of ambivalence.",ambivalence,05-01-2022 10:30,threadweaver,instagram,#ambivalence #conflictingfeelings,12,25,uk,2022,1,5,10
+214,216,"embracing the flaws, finding acceptance in imperfection, a journey towards self-love.",acceptance,20-08-2021 16:20,selfloveadvocate,facebook,#acceptance #selflovejourney,15,30,australia,2021,8,20,16
+215,217,"determination burning like a wildfire, overcoming obstacles, turning dreams into reality.",determination,03-11-2019 13:45,dreamchaser,twitter,#determination #dreamsintoreality,18,35,usa,2019,11,3,13
+216,218,"tranquil moments by the ocean, serenity washing over, a peaceful retreat within the waves' embrace.",serenity,12-04-2020 19:30,oceansoul,instagram,#serenity #oceanretreat,25,50,canada,2020,4,12,19
+217,219,"exploring new horizons with the spark of curiosity, an adventurer in the vast landscape of knowledge.",curiosity,15-04-2022 08:45,horizonexplorer,facebook,#curiosity #newhorizons,22,45,india,2022,4,15,8
+218,220,"drifting through the day with a nonchalant demeanor, embracing the art of indifference.",indifference,10-02-2023 17:00,nonchalantspirit,twitter,#indifference #driftingthroughlife,9,18,uk,2023,2,10,17
+219,221,"wrestling with thoughts, a perplexed mind lost in the labyrinth of life's complexities.",confusion,05-08-2020 12:15,complexthinker,instagram,#confusion #perplexedmind,14,28,australia,2020,8,5,12
+220,222,"immersed in a state of emotional numbness, a shield against the storm of daily struggles.",numbness,01-12-2021 15:30,shieldedheart,facebook,#numbness #emotionalshield,10,20,usa,2021,12,1,15
+221,223,"a melancholic symphony playing in the background, the soundtrack of a wistful heart.",melancholy,25-03-2019 21:00,symphonysoul,twitter,#melancholy #wistfulheart,13,26,canada,2019,3,25,21
+222,224,"flipping through the pages of an old yearbook, nostalgia painting smiles and tears on my face.",nostalgia,18-06-2017 14:45,yearbookexplorer,instagram,#nostalgia #yearbookmemories,12,25,india,2017,6,18,14
+223,225,"torn between opposing emotions, an ambivalence that colors my decisions with shades of uncertainty.",ambivalence,08-07-2022 11:30,decisivedilemma,facebook,#ambivalence #shadesofuncertainty,15,30,australia,2022,7,8,11
+224,226,"embracing life's imperfections, finding acceptance in the journey, scars and all.",acceptance,15-05-2023 16:20,imperfectharmony,twitter,#acceptance #imperfectjourney,18,36,canada,2023,5,15,16
+225,227,"a fiery determination burning within, fueled by the vision of reaching unparalleled heights.",determination,10-09-2021 14:45,visionaryspirit,instagram,#determination #unparalleledheights,20,40,uk,2021,9,10,14
+226,228,"basking in the serenity of a quiet forest, where the whispers of nature bring peace to the soul.",serenity,28-02-2020 18:30,forestdreamer,facebook,#serenity #naturewhispers,25,50,usa,2020,2,28,18
+227,231,"indifferent to the noise of the world, a silent observer in the midst of life's cacophony.",indifference,10-03-2023 16:30,silentspectator,instagram,#indifference #silentobserver,9,18,india,2023,3,10,16
+228,232,"navigating through the labyrinth of thoughts, confusion a constant companion in the maze of ideas.",confusion,02-05-2021 11:45,mazenavigator,facebook,#confusion #thoughtlabyrinth,14,28,australia,2021,5,2,11
+229,233,"an impenetrable numbness shields me from the emotional storms, a fortress of stoic resilience.",numbness,18-10-2019 14:30,resilientfortress,twitter,#numbness #stoicresilience,11,22,uk,2019,10,18,14
+230,234,"melancholy painting the world in hues of nostalgia, a canvas of bittersweet memories.",melancholy,05-01-2020 20:00,canvasdreamer,instagram,#melancholy #bittersweetmemories,13,26,usa,2020,1,5,20
+231,235,"a journey into the past, flipping through the pages of an old diary, nostalgia taking the lead.",nostalgia,10-08-2018 15:45,diaryexplorer,facebook,#nostalgia #diaryjourney,12,25,canada,2018,8,10,15
+232,236,"ambivalence clouding decisions, caught in the crossroads of conflicting emotions.",ambivalence,15-01-2022 10:30,crossroadstraveler,twitter,#ambivalence #conflictingemotions,15,30,india,2022,1,15,10
+233,237,"embracing imperfections, finding acceptance in the mosaic of life's beautiful chaos.",acceptance,20-07-2021 16:20,mosaicdreamer,instagram,#acceptance #beautifulchaos,18,36,australia,2021,7,20,16
+234,238,"determination as the driving force, propelling me forward on the path to extraordinary achievements.",determination,03-12-2019 13:45,pathfinderspirit,facebook,#determination #extraordinarypath,20,40,usa,2019,12,3,13
+235,239,"seeking serenity in the melody of raindrops, a tranquil escape from the noise of everyday life.",serenity,12-04-2020 19:30,raindropharmony,twitter,#serenity #raindropmelody,25,50,canada,2020,4,12,19
+236,240,"curiosity driving the exploration of the unknown, a seeker of knowledge in uncharted territories.",curiosity,08-05-2022 08:45,seekerofunknowns,instagram,#curiosity #seekerofknowledge,22,45,uk,2022,5,8,8
+237,241,"drifting through the day with an air of nonchalance, indifferent to the trivialities of life.",indifference,22-02-2023 17:00,nonchalantwanderer,facebook,#indifference #driftingthroughlife,9,18,india,2023,2,22,17
+238,242,"lost in the labyrinth of thoughts, confusion casting shadows on the quest for clarity.",confusion,05-06-2020 12:15,shadowedseeker,twitter,#confusion #labyrinthofthoughts,14,28,australia,2020,6,5,12
+239,243,"wrapped in the cloak of emotional numbness, a shield against the storms of life's turbulence.",numbness,30-11-2021 15:30,turbulentshield,instagram,#numbness #emotionalstorms,10,20,canada,2021,11,30,15
+240,244,"melancholy as a companion, painting the canvas of life with the brushstrokes of wistful yearning.",melancholy,25-02-2019 21:00,wistfulpainter,facebook,#melancholy #wistfulyearning,13,26,uk,2019,2,25,21
+241,245,"leafing through the pages of an old photo album, nostalgia weaving tales of laughter and tears.",nostalgia,18-05-2017 14:45,taleweaver,twitter,#nostalgia #photoalbumstories,12,25,usa,2017,5,18,14
+242,246,"ambivalence in the air, caught between the crossroads of conflicting emotions and decisions.",ambivalence,05-08-2022 11:30,crossroadsexplorer,instagram,#ambivalence #crossroadsconfusion,15,30,canada,2022,8,5,11
+243,247,"embracing the beauty in imperfections, finding acceptance in the mosaic of life's unpredictable art.",acceptance,15-06-2023 16:20,mosaicartist,facebook,#acceptance #unpredictableart,18,36,australia,2023,6,15,16
+244,248,"determination ablaze, forging a path through challenges, sculpting dreams into tangible realities.",determination,10-10-2021 14:45,dreamsculptor,twitter,#determination #sculptingdreams,20,40,uk,2021,10,10,14
+245,249,"immerse in the serenity of a moonlit night, where the quiet whispers of nature bring peace to the soul.",serenity,12-05-2020 19:30,moonlitsoul,instagram,#serenity #moonlitpeace,25,50,usa,2020,5,12,19
+246,250,"fueled by curiosity, venturing into uncharted realms, a fearless explorer of the mysteries of the world.",curiosity,01-12-2022 09:15,fearlessexplorer,facebook,#curiosity #fearlessexplorer,22,44,india,2022,12,1,9
+247,251,"wrapped in the cloak of emotional numbness, a shield against the storms of life's turbulence.",numbness,30-11-2021 15:30,turbulentshield,instagram,#numbness #emotionalstorms,10,20,canada,2021,11,30,15
+248,252,"dancing through life with the exuberance of a carefree spirit, embracing joy and zest at every turn.",zest,12-07-2018 17:45,joyfuldancer,twitter,#zest #carefreespirit,15,30,usa,2018,7,12,17
+249,253,"basking in the golden glow of contentment, a serene river flowing through the landscape of the heart.",contentment,05-09-2020 20:10,serenebasker,facebook,#contentment #goldenglow,18,36,australia,2020,9,5,20
+250,254,"gazing towards the horizon with hopeful eyes, painting a canvas of dreams illuminated by the sun of optimism.",hopeful,18-04-2022 08:00,dreampainter,instagram,#hopeful #canvasofdreams,12,24,india,2022,4,18,8
+251,255,"standing tall, proud as an oak, the branches of achievement reaching towards the sky of accomplishment.",proud,10-12-2019 12:20,oakachiever,twitter,#proud #branchesofachievement,25,50,canada,2019,12,10,12
+252,256,"a heart overflowing with gratitude, a garden where appreciation blooms in the soil of kindness and connection.",grateful,28-02-2023 09:45,heartgardener,facebook,#grateful #blossomingconnection,20,40,usa,2023,2,28,9
+253,257,"extending a hand, empathetic threads weaving a tapestry of understanding, embracing the joys and sorrows of others.",empathetic,03-04-2018 14:15,threadweaver,instagram,#empathetic #tapestryofunderstanding,15,30,uk,2018,4,3,14
+254,258,"compassionate clouds, heavy with care, showering empathy on the parched grounds of human suffering.",compassionate,20-06-2022 10:30,cloudcaretaker,twitter,#compassionate #showerofempathy,18,36,australia,2022,6,20,10
+255,259,"playfully dancing in the rain of laughter, a whimsical spirit twirling in the puddles of joy and lightheartedness.",playful,08-07-2020 18:00,raindancer,facebook,#playful #danceintherain,22,44,canada,2020,7,8,18
+256,260,"soaring on the wings of a free spirit, unburdened by the chains of conformity, painting the sky with independence.",free-spirited,15-08-2021 11:10,skypainter,instagram,#freespirit #paintingthesky,20,40,india,2021,8,15,11
+257,261,"bathed in the glow of inspiration, a creative phoenix rising from the ashes of ordinary thoughts to explore new realms.",inspired,25-10-2019 16:50,phoenixexplorer,twitter,#inspired #creativephoenix,15,30,uk,2019,10,25,16
+258,262,"navigating the sea of hope, sailing towards the sunrise of possibilities, confident in the ship of positive anticipation.",hopeful,05-10-2023 07:30,sunrisenavigator,facebook,#hopeful #sunriseofpossibilities,12,24,usa,2023,10,5,7
+259,263,"striding with confidence, footprints of self-assuredness imprinted on the sands of challenges conquered and victories claimed.",confident,15-02-2022 13:15,sandstrider,instagram,#confident #footprintsofassuredness,25,50,australia,2022,2,15,13
+260,264,"lost in the symphony of the night, a moonlit serenade that whispers tales of wanderlust and moonlit dreams.",serenity,08-05-2021 22:00,nightserenader,twitter,#serenity #moonlitserenade,13,26,canada,2021,5,8,22
+261,265,"unveiling the layers of curiosity, a labyrinth of questions leading to the treasure troves of undiscovered knowledge.",curiosity,29-11-2020 14:45,knowledgeseeker,instagram,#curiosity #labyrinthofquestions,17,34,usa,2020,11,29,14
+262,266,"in the embrace of the autumn breeze, leaves of ambivalence dancing in a waltz between choices and uncertainties.",ambivalence,14-09-2019 10:20,breezewaltzer,facebook,#ambivalence #autumnwaltz,14,28,uk,2019,9,14,10
+263,267,"gratitude as a guiding star, navigating the constellation of blessings in the vast universe of life's precious moments.",grateful,12-03-2022 19:55,starnavigator,twitter,#grateful #guidingstar,19,38,australia,2022,3,12,19
+264,268,"with a zestful heart, sprinting through fields of enthusiasm, chasing sunbeams and laughter in the meadows of joy.",zest,30-03-2023 16:30,meadowsprinter,instagram,#zest #fieldsofenthusiasm,16,32,india,2023,3,30,16
+265,269,"a compassionate rain, tears of empathy falling gently, nurturing the seeds of kindness in the garden of human connections.",compassionate,01-07-2021 12:10,rainnurturer,facebook,#compassionate #tearsofempathy,21,42,canada,2021,7,1,12
+266,270,"proudly scaling the peaks of achievement, a mountaineer conquering challenges and planting the flag of success.",proud,05-01-2020 08:45,peakconqueror,twitter,#proud #scalingpeaks,23,46,usa,2020,1,5,8
+267,271,"embraced by the hopeful dawn, a gardener sowing seeds of optimism, tending to the blooms of a brighter tomorrow.",hopeful,17-07-2022 06:15,dawngardener,instagram,#hopeful #seedsofoptimism,14,28,uk,2022,7,17,6
+268,272,"a playful escapade in the carnival of life, carousel laughter and cotton candy dreams swirling in the joyous atmosphere.",playful,22-08-2018 17:20,carnivaldreamer,facebook,#playful #carnivalescapade,24,48,australia,2018,8,22,17
+269,273,"floating on clouds of inspiration, an artist painting the sky with strokes of creativity, creating a masterpiece of dreams.",inspired,08-12-2021 14:30,skyartist,twitter,#inspired #cloudsofcreativity,18,36,india,2021,12,8,14
+270,274,"navigating the river of contentment, a serene boat cruise through the tranquil waters of inner peace and acceptance.",contentment,27-04-2019 09:50,rivernavigator,instagram,#contentment #tranquilwaters,20,40,canada,2019,4,27,9
+271,275,"with empathy as a lantern, wandering through the dark alleys of sorrow, illuminating the path with compassion and care.",empathetic,03-09-2023 21:40,lanternwanderer,facebook,#empathetic #lanternofcompassion,16,32,usa,2023,9,3,21
+272,276,"a free spirit soaring on the wings of dreams, leaving trails of independence in the azure sky of boundless possibilities.",free-spirited,10-06-2020 10:05,dreamsoarer,twitter,#freespirit #wingsofdreams,22,44,uk,2020,6,10,10
+273,277,"bathed in the golden hues of gratefulness, a sunset of appreciation casting its warm glow on the landscapes of the heart.",grateful,01-04-2022 18:30,sunsetadmirer,instagram,#grateful #goldenhues,19,38,australia,2022,4,1,18
+274,278,"confident strides in the dance of life, a ballroom where self-assuredness leads, twirling through challenges with grace.",confident,15-01-2021 13:00,dancestrider,facebook,#confident #danceoflife,23,46,canada,2021,1,15,13
+275,279,"hopeful whispers of wind, carrying the promises of a brighter tomorrow, a symphony of optimism in the air of possibilities.",hopeful,06-05-2023 07:20,windwhisperer,twitter,#hopeful #brightertomorrows,15,30,india,2023,5,6,7
+276,280,"playfully juggling responsibilities, a circus performer balancing the acts of work and joy, tossing laughter into the air.",playful,18-11-2019 15:15,jugglingartist,instagram,#playful #jugglingresponsibilities,25,50,usa,2019,11,18,15
+277,281,"whispering tales of inspiration to the stars, a storyteller crafting constellations from the threads of imagination.",inspired,29-08-2020 20:45,starstoryteller,facebook,#inspired #talestothestars,14,28,uk,2020,8,29,20
+278,282,"charting a course through the waves of hopeful anticipation, a sailor steering towards the shores of dreams yet unexplored.",hopeful,30-10-2022 11:40,wavenavigator,twitter,#hopeful #sailorofdreams,17,34,australia,2022,10,30,11
+279,283,"a compassionate rain, tears of empathy falling gently, nurturing the seeds of kindness in the garden of human connections.",compassionate,01-07-2021 12:10,rainnurturer,instagram,#compassionate #tearsofempathy,21,42,canada,2021,7,1,12
+280,284,"proudly scaling the peaks of achievement, a mountaineer conquering challenges and planting the flag of success.",proud,05-01-2020 08:45,peakconqueror,twitter,#proud #scalingpeaks,23,46,usa,2020,1,5,8
+281,285,"embraced by the hopeful dawn, a gardener sowing seeds of optimism, tending to the blooms of a brighter tomorrow.",hopeful,17-07-2022 06:15,dawngardener,instagram,#hopeful #seedsofoptimism,14,28,uk,2022,7,17,6
+282,286,"a playful escapade in the carnival of life, carousel laughter and cotton candy dreams swirling in the joyous atmosphere.",playful,22-08-2018 17:20,carnivaldreamer,facebook,#playful #carnivalescapade,24,48,australia,2018,8,22,17
+283,287,"floating on clouds of inspiration, an artist painting the sky with strokes of creativity, creating a masterpiece of dreams.",inspired,08-12-2021 14:30,skyartist,twitter,#inspired #cloudsofcreativity,18,36,india,2021,12,8,14
+284,288,"navigating the river of contentment, a serene boat cruise through the tranquil waters of inner peace and acceptance.",contentment,27-04-2019 09:50,rivernavigator,instagram,#contentment #tranquilwaters,20,40,canada,2019,4,27,9
+285,289,"with empathy as a lantern, wandering through the dark alleys of sorrow, illuminating the path with compassion and care.",empathetic,03-09-2023 21:40,lanternwanderer,facebook,#empathetic #lanternofcompassion,16,32,usa,2023,9,3,21
+286,290,"a free spirit soaring on the wings of dreams, leaving trails of independence in the azure sky of boundless possibilities.",free-spirited,10-06-2020 10:05,dreamsoarer,twitter,#freespirit #wingsofdreams,22,44,uk,2020,6,10,10
+287,291,"bathed in the golden hues of gratefulness, a sunset of appreciation casting its warm glow on the landscapes of the heart.",grateful,01-04-2022 18:30,sunsetadmirer,instagram,#grateful #goldenhues,19,38,australia,2022,4,1,18
+288,292,"confident strides in the dance of life, a ballroom where self-assuredness leads, twirling through challenges with grace.",confident,15-01-2021 13:00,dancestrider,facebook,#confident #danceoflife,23,46,canada,2021,1,15,13
+289,293,"hopeful whispers of wind, carrying the promises of a brighter tomorrow, a symphony of optimism in the air of possibilities.",hopeful,06-05-2023 07:20,windwhisperer,twitter,#hopeful #brightertomorrows,15,30,india,2023,5,6,7
+290,294,"playfully juggling responsibilities, a circus performer balancing the acts of work and joy, tossing laughter into the air.",playful,18-11-2019 15:15,jugglingartist,instagram,#playful #jugglingresponsibilities,25,50,usa,2019,11,18,15
+291,295,"whispering tales of inspiration to the stars, a storyteller crafting constellations from the threads of imagination.",inspired,29-08-2020 20:45,starstoryteller,facebook,#inspired #talestothestars,14,28,uk,2020,8,29,20
+292,296,"charting a course through the waves of hopeful anticipation, a sailor steering towards the shores of dreams yet unexplored.",hopeful,30-10-2022 11:40,wavenavigator,twitter,#hopeful #sailorofdreams,17,34,australia,2022,10,30,11
+293,297,"a compassionate rain, tears of empathy falling gently, nurturing the seeds of kindness in the garden of human connections.",compassionate,01-07-2021 12:10,rainnurturer,instagram,#compassionate #tearsofempathy,21,42,canada,2021,7,1,12
+294,298,"proudly scaling the peaks of achievement, a mountaineer conquering challenges and planting the flag of success.",proud,05-01-2020 08:45,peakconqueror,twitter,#proud #scalingpeaks,23,46,usa,2020,1,5,8
+295,299,"embraced by the hopeful dawn, a gardener sowing seeds of optimism, tending to the blooms of a brighter tomorrow.",hopeful,17-07-2022 06:15,dawngardener,instagram,#hopeful #seedsofoptimism,14,28,india,2022,7,17,6
+296,300,"a playful escapade in the carnival of life, carousel laughter and cotton candy dreams swirling in the joyous atmosphere.",playful,22-08-2018 17:20,carnivaldreamer,facebook,#playful #carnivalescapade,24,48,australia,2018,8,22,17
+297,301,"drowning in the abyss of despair, a heart shattered into fragments, lost in the echoing silence of hopelessness.",despair,15-09-2021 16:00,shatteredheart,instagram,#despair #echoingsilence,8,16,canada,2021,9,15,16
+298,302,"bitterness festering like a venomous vine, entwining the soul in a web of resentment, poisoning the garden of peace.",bitterness,08-03-2019 14:20,venomoussoul,facebook,#bitterness #resentmentweb,12,24,uk,2019,3,8,14
+299,303,"wandering through the desert of loneliness, each step a heavy sigh, mirages of connection shimmering but never materializing.",loneliness,20-07-2017 11:45,desertwanderer,twitter,#loneliness #miragesofconnection,15,30,usa,2017,7,20,11
+300,304,"yearning for a touch that's not there, echoes of a distant warmth haunting the heart in the cold embrace of solitude.",yearning,02-11-2020 19:30,coldembrace,instagram,#yearning #distantwarmth,10,20,australia,2020,11,2,19
+301,305,"eyes wide open in the night, fearful shadows dancing on the walls, the mind a prisoner of imagined horrors.",fearful,12-05-2022 02:00,nightprisoner,facebook,#fearful #imaginedhorrors,18,36,india,2022,5,12,2
+302,306,"apprehensive steps on the tightrope of uncertainty, a balancing act where the fall seems inevitable, anxiety a constant companion.",apprehensive,08-04-2023 13:15,tightropewalker,twitter,#apprehensive #balancingact,14,28,uk,2023,4,8,13
+303,307,"overwhelmed by the weight of the world, atlas with trembling shoulders, each responsibility a boulder in the landscape of exhaustion.",overwhelmed,25-06-2021 17:50,atlasbearer,instagram,#overwhelmed #bouldersofexhaustion,22,44,canada,2021,6,25,17
+304,308,"jealousy, a green-eyed monster, lurking in the shadows, casting a dark cloud over the sunshine of others' success.",jealous,30-08-2019 10:10,greenmonster,facebook,#jealous #greeneyedmonster,16,32,usa,2019,8,30,10
+305,309,"devastated by the storm of betrayal, the wreckage of trust scattered like debris, a heart torn by the winds of broken promises.",devastated,03-08-2022 15:30,stormsurvivor,twitter,#devastated #windsofbrokenpromises,25,50,australia,2022,8,3,15
+306,310,"frustrated fingers tapping on the keyboard, a symphony of annoyance composing an unsolvable puzzle of unmet expectations.",frustrated,17-12-2020 09:20,puzzlecomposer,instagram,#frustrated #unsolvablepuzzle,12,24,india,2020,12,17,9
+307,311,"envious eyes fixated on the gilded prize, a heartache fueled by the painful desire for possessions that seem forever out of reach.",envious,28-02-2021 22:45,gildedheartache,facebook,#envious #gildedprize,20,40,usa,2021,2,28,22
+308,312,"dismissive glances, a fortress built with indifference, walls impenetrable to the pleas of understanding and recognition.",dismissive,10-05-2018 14:00,indifferentfort,twitter,#dismissive #impenetrablewalls,14,28,uk,2018,5,10,14
+309,313,"shattered dreams lie on the floor like fragments of glass, a mosaic of disappointment crafted by the hands of frustration.",frustrated,07-01-2022 11:10,dreammosaic,instagram,#frustrated #mosaicofdisappointment,15,30,canada,2022,1,7,11
+310,314,"loneliness, a silent companion in the night, the only echo in the chamber of solitude, a heart's solitary nocturne.",loneliness,19-09-2019 03:30,nocturnalecho,facebook,#loneliness #solitarynocturne,18,36,australia,2019,9,19,3
+311,315,"fearful whispers in the dark, the mind haunted by the specter of the unknown, shadows dancing to the rhythm of anxiety's tune.",fearful,14-07-2023 23:00,darkwhispers,twitter,#fearful #specteroftheunknown,13,26,uk,2023,7,14,23
+312,316,"bitterness, a bitter aftertaste lingering on the tongue, each word a reminder of wounds that refuse to heal with the passing of time.",bitterness,05-04-2020 16:20,lingeringtaste,instagram,#bitterness #bitteraftertaste,10,20,india,2020,4,5,16
+313,317,"overwhelmed by the cacophony of expectations, a drowning soul in the tempest of pressure, struggling to stay afloat.",overwhelmed,29-11-2021 08:45,tempestsurvivor,facebook,#overwhelmed #drowningsoul,20,40,usa,2021,11,29,8
+314,318,"jealousy, a venom that seeps through the veins, poisoning the heart and turning it into a breeding ground for discontent.",jealous,12-12-2019 17:00,venomousheart,twitter,#jealous #heartofdiscontent,16,32,australia,2019,12,12,17
+315,319,"devastated by the revelation of betrayal, the trust shattered like fragile glass, leaving shards of pain in its wake.",devastated,20-05-2022 14:50,fragiletrust,instagram,#devastated #shatteredtrust,25,50,canada,2022,5,20,14
+316,320,"frustrated attempts to mend a broken connection, the threads of understanding slipping through the fingers like grains of sand.",frustrated,03-09-2020 12:15,brokenthreads,facebook,#frustrated #slippingthreads,14,28,uk,2020,9,3,12
+317,321,"envious gazes cast upon the podium of success, a bitter pill swallowed, the taste lingering as a constant reminder of unattained heights.",envious,10-02-2021 19:30,successpill,twitter,#envious #bitterpill,20,40,usa,2021,2,10,19
+318,322,"dismissive gestures, a curtain drawn to shield the vulnerability, a stage where emotions take a backseat to the performance of indifference.",dismissive,18-08-2018 14:40,curtainshield,instagram,#dismissive #indifferenceperformance,12,24,australia,2018,8,18,14
+319,323,"despair like a heavy fog, enveloping every thought, blurring the path ahead, a journey in the labyrinth of utter hopelessness.",despair,28-02-2022 21:00,foggylabyrinth,facebook,#despair #labyrinthofhopelessness,8,16,canada,2022,2,28,21
+320,324,"bitterness, a bitter chill in the air, freezing moments into icicles of resentment that dangle precariously over the landscape of memory.",bitterness,15-10-2019 10:30,icyresentment,twitter,#bitterness #iciclesofresentment,15,30,uk,2019,10,15,10
+321,325,"loneliness, a solitary moon in a starless sky, casting a cold glow on the landscape of isolation, where echoes bounce in empty spaces.",loneliness,01-12-2017 18:50,solitarymoon,instagram,#loneliness #starlesssky,18,36,usa,2017,12,1,18
+322,326,"yearning for the warmth of a vanished sun, a heartache painted in the hues of a sunset that never graced the horizon.",yearning,18-04-2020 16:15,vanishedsunset,facebook,#yearning #huesofsunset,10,20,australia,2020,4,18,16
+323,327,"fearful eyes scanning the shadows, a prisoner of the night, terrorized by the lurking monsters born from the mind's darkest corners.",fearful,07-01-2023 03:30,nightprisoner,twitter,#fearful #lurkingmonsters,18,36,india,2023,1,7,3
+324,328,"apprehensive whispers in the wind, a forecast of uncertainty, the mind's weather vane spinning wildly in the storm of doubt.",apprehensive,10-06-2021 10:00,windwhisperer,instagram,#apprehensive #stormofdoubt,14,28,canada,2021,6,10,10
+325,329,"overwhelmed by the maze of expectations, a minotaur of pressure lurking in the labyrinth, waiting to devour the spirit of resilience.",overwhelmed,22-02-2020 15:20,mazeexplorer,facebook,#overwhelmed #minotaurofpressure,22,44,usa,2020,2,22,15
+326,330,"jealousy, a festering wound, the pain intensifying with each glance at the garden of others' achievements, blooming beyond the fence.",jealous,17-03-2018 14:45,woundedgarden,twitter,#jealous #bloomingachievements,16,32,uk,2018,3,17,14
+327,331,"devastated, a heart in ruins, the echoes of shattered dreams reverberating in the chambers, a requiem for what once was whole.",devastated,28-10-2022 11:15,ruinedheart,instagram,#devastated #echoesofshattereddreams,25,50,australia,2022,10,28,11
+328,332,"frustrated attempts to untangle the knot of confusion, the threads of understanding slipping further into the labyrinth of miscommunication.",frustrated,01-11-2020 12:30,knotuntangler,facebook,#frustrated #labyrinthofmiscommunication,14,28,india,2020,11,1,12
+329,333,"envious eyes locked on the treasure chest of opportunities, a heartache fueled by the desire for keys that seem forever elusive.",envious,15-01-2021 22:10,elusivekeys,twitter,#envious #desireforkeys,20,40,usa,2021,1,15,22
+330,334,"dismissive gestures, a curtain drawn to shield the vulnerability, a stage where emotions take a backseat to the performance of indifference.",dismissive,18-08-2018 14:00,indifferentfort,instagram,#dismissive #indifferenceperformance,12,24,australia,2018,8,18,14
+331,335,"shattered dreams lie on the floor like fragments of glass, a mosaic of disappointment crafted by the hands of frustration.",frustrated,07-01-2022 11:10,dreammosaic,twitter,#frustrated #mosaicofdisappointment,15,30,canada,2022,1,7,11
+332,336,"loneliness, a silent companion in the night, the only echo in the chamber of solitude, a heart's solitary nocturne.",loneliness,19-09-2019 03:30,nocturnalecho,facebook,#loneliness #solitarynocturne,18,36,australia,2019,9,19,3
+333,337,awe-struck by the breathtaking sunrise over the mountains.,awe,03-04-2022 06:15,natureadmirer,instagram,#awe #breathtakingsunrise,28,55,usa,2022,4,3,6
+334,338,navigating through the challenges with determination.,determination,12-10-2023 10:30,goalpursuer,twitter,#determination #challenges,15,30,canada,2023,10,12,10
+335,339,nostalgia hits while flipping through an old photo album.,nostalgia,28-06-2019 19:00,memorylane,facebook,#nostalgia #oldmemories,22,45,uk,2019,6,28,19
+336,340,thrilled to witness the grandeur of a cultural festival.,thrill,15-09-2020 14:45,cultureenthusiast,instagram,#thrill #culturalcelebration,40,80,india,2020,9,15,14
+337,341,calmness found in the rhythm of raindrops on the windowpane.,calmness,08-11-2017 21:20,rainwatcher,twitter,#calmness #rainydays,18,35,australia,2017,11,8,21
+338,342,overwhelmed by the support received during a personal challenge.,overwhelmed,20-05-2021 17:30,personaljourney,facebook,#overwhelmed #supportivecommunity,25,50,usa,2021,5,20,17
+339,343,excitement builds as the countdown to a long-awaited vacation begins.,excitement,10-01-2023 12:00,vacationdreamer,instagram,#excitement #vacationcountdown,30,60,france,2023,1,10,12
+340,344,"reflecting on life's journey, grateful for the lessons learned.",gratitude,05-12-2018 08:45,lifelearner,twitter,#gratitude #lifelessons,35,70,brazil,2018,12,5,8
+341,345,bittersweet emotions arise while bidding farewell to a dear friend.,bittersweet,15-03-2020 18:30,farewellsender,instagram,#bittersweet #farewell,20,40,japan,2020,3,15,18
+342,346,curiosity sparked by exploring a mysterious ancient ruin.,curiosity,22-08-2016 15:10,historyexplorer,facebook,#curiosity #ancientdiscovery,18,35,greece,2016,8,22,15
+343,347,admiration for the intricate details of a handcrafted masterpiece.,admiration,20-08-2019 16:00,craftenthusiast,instagram,#admiration #handcraftedart,25,50,usa,2019,8,20,16
+344,348,overjoyed by the warmth of a cozy fireplace on a winter evening.,overjoyed,08-12-2021 19:30,winterlover,twitter,#overjoyed #winterwarmth,18,35,canada,2021,12,8,19
+345,349,inspiration strikes while observing the colors of a vibrant sunset.,inspiration,10-06-2020 20:45,sunsetwatcher,instagram,#inspiration #colorfulsunset,30,60,uk,2020,6,10,20
+346,350,motivated to achieve fitness goals after an invigorating workout.,motivation,28-02-2022 07:15,fitnessjunkie,facebook,#motivation #fitnessgoals,40,80,australia,2022,2,28,7
+347,351,gratitude for the simple joys found in a cup of morning coffee.,gratitude,15-04-2017 08:00,coffeelover,twitter,#gratitude #morningcoffee,22,45,india,2017,4,15,8
+348,352,feeling empowered after conquering a challenging hiking trail.,empowerment,05-09-2018 14:20,hikingexplorer,instagram,#empowerment #hikingadventure,35,70,usa,2018,9,5,14
+349,353,amused by the antics of playful kittens during playtime.,amusement,22-10-2022 12:45,kittyobserver,facebook,#amusement #playfulkittens,15,30,canada,2022,10,22,12
+350,354,contemplating life's mysteries under the starry night sky.,contemplation,02-07-2016 23:30,stargazer,twitter,#contemplation #starrynight,28,55,uk,2016,7,2,23
+351,355,joyful reunion with long-lost friends after years of separation.,joyfulreunion,18-11-2020 17:10,friendshiprenewal,instagram,#joyfulreunion #friendship,20,40,india,2020,11,18,17
+352,356,excitement builds while preparing for a surprise celebration.,excitement,05-03-2023 15:00,celebrationplanner,facebook,#excitement #surprisecelebration,30,60,australia,2023,3,5,15
+353,357,satisfaction derived from successfully completing a diy project.,satisfaction,01-12-2015 11:30,diyenthusiast,twitter,#satisfaction #diyproject,25,50,usa,2015,12,1,11
+354,358,feeling blessed for the supportive community in times of need.,blessed,10-09-2021 09:45,communityhelper,instagram,#blessed #supportivecommunity,18,35,uk,2021,9,10,9
+355,359,captivated by the serenity of a tranquil garden in full bloom.,serenity,12-05-2018 14:20,gardenenthusiast,facebook,#serenity #tranquilgarden,22,45,canada,2018,5,12,14
+356,360,anticipation for an upcoming adventure in an exotic destination.,anticipation,25-07-2022 10:00,wanderlust,twitter,#anticipation #adventureawaits,40,80,india,2022,7,25,10
+357,361,reflecting on personal growth achieved through life experiences.,reflection,08-03-2019 18:30,growthseeker,instagram,#reflection #personalgrowth,35,70,usa,2019,3,8,18
+358,362,nostalgic memories flood in while revisiting childhood favorites.,nostalgia,28-01-2017 21:15,childhoodmemories,facebook,#nostalgia #childhoodfavorites,20,40,australia,2017,1,28,21
+359,363,appreciation for the vibrant culture experienced during travel.,appreciation,14-11-2016 13:45,cultureexplorer,twitter,#appreciation #culturalexperience,28,55,uk,2016,11,14,13
+360,364,confidence soars after overcoming public speaking anxiety.,confidence,02-04-2020 17:30,publicspeaker,instagram,#confidence #overcominganxiety,15,30,usa,2020,4,2,17
+361,365,contentment in the midst of a family gathering filled with laughter.,contentment,15-01-2023 19:00,familycelebration,facebook,#contentment #familylaughter,25,50,canada,2023,1,15,19
+362,366,enthusiasm for learning new skills and expanding knowledge.,enthusiasm,07-08-2018 12:15,lifelonglearner,twitter,#enthusiasm #skillbuilding,30,60,india,2018,8,7,12
+363,367,surprise and delight at discovering a hidden gem in the city.,surprise,18-10-2019 16:45,cityexplorer,instagram,#surprise #hiddengem,18,35,uk,2019,10,18,16
+364,368,a sense of accomplishment after completing a challenging workout.,accomplishment,30-06-2022 07:00,fitnessachiever,facebook,#accomplishment #fitnesssuccess,22,45,australia,2022,6,30,7
+365,369,wonderment at the beauty of a double rainbow after the rain.,wonderment,12-06-2017 18:20,rainbowchaser,twitter,#wonderment #doublerainbow,35,70,usa,2017,6,12,18
+366,370,optimism for a bright future amidst challenging times.,optimism,05-07-2021 09:30,futureoptimist,instagram,#optimism #brightfuture,20,40,canada,2021,7,5,9
+367,371,pride in achieving a personal milestone in career progression.,pride,15-04-2016 14:50,careerachiever,facebook,#pride #careermilestone,28,55,uk,2016,4,15,14
+368,372,happiness blooms like flowers in a garden on a sunny day.,happiness,10-02-2020 11:15,sunnydayenthusiast,twitter,#happiness #sunnyday,15,30,india,2020,2,10,11
+369,373,elation over discovering a rare book in a quaint bookstore.,elation,22-09-2018 16:30,bookworm,instagram,#elation #rarebookdiscovery,40,80,usa,2018,9,22,16
+370,374,curiosity piqued by the mysteries of an ancient archaeological site.,curiosity,08-11-2015 10:00,archaeologyenthusiast,facebook,#curiosity #ancientmysteries,18,35,australia,2015,11,8,10
+371,375,mesmerized by the cosmic dance of fireflies on a moonlit night.,enchantment,10-08-2022 22:00,nightskyobserver,instagram,#enchantment #cosmicfireflies,25,50,brazil,2022,8,10,22
+372,376,intrigued by the symphony of colors in an abstract art exhibition.,intrigue,05-04-2019 17:30,artconnoisseur,twitter,#intrigue #abstractart,18,35,france,2019,4,5,17
+373,377,giggles and joy echo in the air during a children's playdate.,playfuljoy,15-12-2020 15:45,playfulparent,facebook,#playfuljoy #childrensplaydate,22,45,japan,2020,12,15,15
+374,378,enveloped in serenity while practicing mindfulness by the lake.,mindfulness,20-10-2017 08:15,zenseeker,instagram,#mindfulness #laketranquility,35,70,canada,2017,10,20,8
+375,379,chasing dreams like a kite soaring high in the vast open sky.,dreamchaser,28-02-2021 13:00,skydreamer,twitter,#dreamchaser #skyhighdreams,30,60,australia,2021,2,28,13
+376,380,spellbound by the elegance of a ballroom dance under crystal chandeliers.,elegance,12-06-2018 20:30,danceenthusiast,facebook,#elegance #ballroomdance,28,55,uk,2018,6,12,20
+377,381,whimsical delight in a world of fairy tales and magical creatures.,whimsy,08-03-2016 14:20,fairytaleexplorer,instagram,#whimsy #magicalworld,20,40,usa,2016,3,8,14
+378,382,pensive contemplation amid the ancient ruins of a forgotten civilization.,pensive,18-04-2023 17:10,ruinsexplorer,twitter,#pensive #ancientcivilization,18,35,greece,2023,4,18,17
+379,383,embracing the thrill of speed on a rollercoaster's exhilarating twists.,thrill,25-07-2020 12:45,rollercoasterfan,facebook,#thrill #rollercoasteradventure,22,45,germany,2020,7,25,12
+380,384,harmony resonates as musicians play a melody of unity and togetherness.,harmony,30-11-2019 19:30,musicharmonist,instagram,#harmony #musicalunity,35,70,sweden,2019,11,30,19
+381,385,a burst of creativity in the quiet solitude of an artist's studio.,creativity,01-09-2015 16:00,studioartist,twitter,#creativity #artistshaven,15,30,italy,2015,9,1,16
+382,386,radiant joy akin to blooming flowers on a sun-kissed spring morning.,radiance,05-05-2022 10:15,springenthusiast,facebook,#radiance #springblooms,25,50,netherlands,2022,5,5,10
+383,387,a sense of wonder at the vastness of the cosmos on a stargazing night.,wonder,08-07-2018 23:00,cosmosexplorer,instagram,#wonder #stargazingadventure,40,80,south africa,2018,7,8,23
+384,388,rejuvenated by the salty breeze and the sound of waves at the seaside.,rejuvenation,20-09-2021 14:30,seabreezelover,twitter,#rejuvenation #seasideescape,18,35,spain,2021,9,20,14
+385,389,whispers of inspiration from the rustling leaves in a serene forest.,inspiration,15-11-2016 11:45,forestdreamer,facebook,#inspiration #forestwhispers,28,55,portugal,2016,11,15,11
+386,390,savoring the warmth of a cup of cocoa on a chilly winter evening.,coziness,12-01-2020 18:00,winterwarmth,instagram,#coziness #warmwinterevening,30,60,switzerland,2020,1,12,18
+387,391,heartfelt gratitude for the laughter shared during a family reunion.,gratitude,28-12-2017 19:15,familygatherer,facebook,#gratitude #familylaughter,22,45,austria,2017,12,28,19
+388,392,"embarking on a culinary adventure, savoring exotic flavors around the world.",adventure,02-03-2019 20:20,culinaryexplorer,twitter,#adventure #culinaryjourney,35,70,belgium,2019,3,2,20
+389,393,euphoria floods in as the final puzzle piece clicks into place.,euphoria,08-06-2022 15:30,puzzlesolver,instagram,#euphoria #puzzlecompletion,20,40,denmark,2022,6,8,15
+390,394,awe-inspired by the grandeur of an ancient cathedral's intricate architecture.,awe,18-08-2018 14:45,cathedralvisitor,facebook,#awe #architecturalgrandeur,18,35,czech republic,2018,8,18,14
+391,395,captivated by the ethereal beauty of a field filled with fireflies.,enchantment,10-08-2022 22:00,nightskyobserver,instagram,#enchantment #fireflyfield,25,50,brazil,2022,8,10,22
+392,396,immersed in the enchanting melodies of a street musician's violin.,melodic,05-04-2019 17:30,musiclover,twitter,#melodic #streetmusic,18,35,france,2019,4,5,17
+393,397,joyful laughter resonates through a lively summer carnival.,festivejoy,15-12-2020 15:45,carnivalgoer,facebook,#festivejoy #summercarnival,22,45,japan,2020,12,15,15
+394,398,exploring the universe within during a mindful meditation session.,innerjourney,20-10-2017 08:15,mindfulexplorer,instagram,#innerjourney #meditationbliss,35,70,canada,2017,10,20,8
+395,399,soaring like a free spirit on the winds of a coastal cliff.,freedom,28-02-2021 13:00,coastalexplorer,twitter,#freedom #coastaladventure,30,60,australia,2021,2,28,13
+396,400,dazzled by the elegance of a masquerade ball's dazzling costumes.,dazzle,12-06-2018 20:30,masqueradeattendee,facebook,#dazzle #masqueradeelegance,28,55,uk,2018,6,12,20
+397,401,whimsical delight in a world of whimsical fairy tales.,whimsy,08-03-2016 14:20,fairytaleadventurer,instagram,#whimsy #fairytalemagic,20,40,usa,2016,3,8,14
+398,402,reflective contemplation amid the ruins of a forgotten era.,reflection,18-04-2023 17:10,ruinsexplorer,twitter,#reflection #forgottenera,18,35,greece,2023,4,18,17
+399,403,riding the adrenaline rush on a rollercoaster's wild twists.,adrenaline,25-07-2020 12:45,thrillseeker,facebook,#adrenaline #rollercoasterthrills,22,45,germany,2020,7,25,12
+400,404,harmony resonates as musicians play a symphony of unity.,harmony,30-11-2019 19:30,musicharmonist,instagram,#harmony #musicalunity,35,70,sweden,2019,11,30,19
+401,405,a burst of artistic creativity in the quietude of an artist's studio.,artisticburst,01-09-2015 16:00,studioartist,twitter,#artisticburst #studiocreativity,15,30,italy,2015,9,1,16
+402,406,radiant joy akin to blossoming flowers on a sunlit spring morning.,radiance,05-05-2022 10:15,springenthusiast,facebook,#radiance #springblooms,25,50,netherlands,2022,5,5,10
+403,407,awe-inspired by the vastness of the cosmos on a stargazing night.,wonder,08-07-2018 23:00,cosmosexplorer,instagram,#wonder #stargazingadventure,40,80,south africa,2018,7,8,23
+404,408,rejuvenated by the salty breeze and the sound of waves at the seaside.,rejuvenation,20-09-2021 14:30,seabreezelover,twitter,#rejuvenation #seasideescape,18,35,spain,2021,9,20,14
+405,409,whispers of inspiration from the rustling leaves in a serene forest.,inspiration,15-11-2016 11:45,forestdreamer,facebook,#inspiration #forestwhispers,28,55,portugal,2016,11,15,11
+406,410,savoring the warmth of a cup of cocoa on a chilly winter evening.,coziness,12-01-2020 18:00,winterwarmth,instagram,#coziness #warmwinterevening,30,60,switzerland,2020,1,12,18
+407,411,heartfelt gratitude for the laughter shared during a family reunion.,gratitude,28-12-2017 19:15,familygatherer,facebook,#gratitude #familylaughter,22,45,austria,2017,12,28,19
+408,412,"embarking on a culinary odyssey, savoring flavors around the world.",culinaryodyssey,02-03-2019 20:20,culinaryexplorer,twitter,#culinaryodyssey #flavorsaroundtheworld,35,70,belgium,2019,3,2,20
+409,413,euphoria floods in as the final puzzle piece fits perfectly.,euphoria,08-06-2022 15:30,puzzlesolver,instagram,#euphoria #perfectpuzzle,20,40,denmark,2022,6,8,15
+410,414,awe-struck by the grandeur of an ancient cathedral's intricate architecture.,awe,18-08-2018 14:45,cathedralvisitor,facebook,#awe #architecturalgrandeur,18,35,czech republic,2018,8,18,14
+411,415,curiosity awakened by the mysteries of an ancient archaeological site.,curiosity,08-11-2015 10:00,archaeologyenthusiast,instagram,#curiosity #ancientmysteries,18,35,australia,2015,11,8,10
+412,416,giddy with excitement as the first snowflakes dance from the sky.,excitement,02-12-2020 17:30,snowfallenthusiast,twitter,#excitement #snowfallmagic,22,45,canada,2020,12,2,17
+413,417,contentment envelops as the aroma of freshly baked bread fills the air.,contentment,10-06-2017 12:15,breadlover,instagram,#contentment #freshbreadaroma,28,55,france,2017,6,10,12
+414,418,inspired by the resilience of a lone tree standing tall in a storm.,resilience,15-04-2021 14:20,natureresilient,facebook,#resilience #standingtall,35,70,usa,2021,4,15,14
+415,419,"lost in the pages of a captivating novel, transported to another world.",immersion,28-09-2019 19:45,bookworm,twitter,#immersion #captivatingnovel,20,40,uk,2019,9,28,19
+416,420,drenched in nostalgia while flipping through an old family photo album.,nostalgia,05-12-2016 21:00,familyhistorian,instagram,#nostalgia #familyphotoalbum,25,50,india,2016,12,5,21
+417,421,spark of inspiration ignites like a shooting star in the night sky.,spark,10-02-2018 23:30,nightskywatcher,facebook,#spark #inspirationignited,30,60,australia,2018,2,10,23
+418,422,imbued with gratitude for the simple pleasure of a warm cup of tea.,gratitude,15-02-2023 08:30,teaenthusiast,twitter,#gratitude #warmtea,18,35,japan,2023,2,15,8
+419,423,marveling at the kaleidoscope of colors in a vibrant street market.,marvel,22-08-2015 15:00,marketexplorer,instagram,#marvel #colorfulstreetmarket,22,45,brazil,2015,8,22,15
+420,424,awash with serenity as the sun sets over a tranquil lakeside retreat.,serenity,20-11-2020 18:45,lakesideretreater,facebook,#serenity #tranquilsunset,28,55,germany,2020,11,20,18
+421,425,drowning in sorrow as memories of lost love resurface.,heartbreak,05-08-2019 21:00,lostinlove,instagram,#heartbreak #lostlove,15,30,usa,2019,8,5,21
+422,426,numbness sets in as the weight of loneliness grows heavier.,loneliness,12-02-2021 16:45,solitudeseeker,twitter,#loneliness #heavyheart,18,35,canada,2021,2,12,16
+423,427,"tears fall like raindrops, mourning the end of a cherished friendship.",grief,28-11-2020 14:20,friendshipsend,facebook,#grief #lostfriendship,22,45,uk,2020,11,28,14
+424,428,"despair clouds the mind, feeling adrift in an endless sea of darkness.",despair,15-05-2016 22:30,lostindarkness,instagram,#despair #endlessdarkness,28,55,australia,2016,5,15,22
+425,429,"shattered by betrayal, trust crumbles like fragile glass.",betrayal,10-09-2018 13:15,brokentrust,twitter,#betrayal #shatteredtrust,22,45,germany,2018,9,10,13
+426,430,"aching heart, the symphony of pain plays in the silence of solitude.",suffering,20-03-2022 19:30,silentsufferer,facebook,#suffering #heartachesymphony,25,50,brazil,2022,3,20,19
+427,431,"emotional storm, a whirlwind of sadness engulfs every thought.",emotionalstorm,18-07-2017 17:45,stormyfeelings,instagram,#emotionalstorm #sadnesswhirlwind,30,60,india,2017,7,18,17
+428,432,"haunted by regrets, the ghost of the past lingers relentlessly.",regret,15-12-2018 10:00,lingeringghost,twitter,#regret #hauntedpast,18,35,france,2018,12,15,10
+429,433,"torn apart by grief, the echoes of loss reverberate through the soul.",grief,28-06-2015 21:15,echoesofloss,facebook,#grief #tornapart,28,55,italy,2015,6,28,21
+430,434,"isolation deepens, an emotional winter where warmth is but a distant memory.",isolation,02-04-2020 14:20,winterofemotions,instagram,#isolation #emotionalwinter,35,70,japan,2020,4,2,14
+431,435,"soul-crushing disappointment, hopes shattered like fragile glass.",disappointment,08-10-2019 18:30,shatteredhopes,twitter,#disappointment #crushedhopes,20,40,spain,2019,10,8,18
+432,436,"painful echoes of a love once cherished, now lost in the abyss of time.",lostlove,22-11-2016 09:45,abyssoftime,facebook,#lostlove #painfulechoes,22,45,netherlands,2016,11,22,9
+433,437,"heartache deepens, a solitary journey through the abyss of despair.",despair,18-08-2022 22:00,solitarydescent,instagram,#despair #abyssofheartache,40,80,south africa,2022,8,18,22
+434,438,"melancholy lingers, a bittersweet serenade in the quietude of solitude.",melancholy,12-03-2017 23:30,serenadeofsolitude,twitter,#melancholy #quietserenade,18,35,uk,2017,3,12,23
+435,439,"bitterness like a poison, seeping into every crevice of the wounded heart.",bitterness,15-12-2015 16:15,poisonedheart,facebook,#bitterness #woundedheart,25,50,australia,2015,12,15,16
+436,440,"emotional exhaustion, the weight of the world crushing weary shoulders.",exhaustion,05-09-2021 13:30,wearysoulcrushed,instagram,#exhaustion #crushedspirit,35,70,canada,2021,9,5,13
+437,441,"sorrowful echoes, a symphony of pain played by the strings of loss.",sorrow,22-05-2018 20:45,stringsofsorrow,twitter,#sorrow #symphonyofloss,18,35,germany,2018,5,22,20
+438,442,"darkness descends, engulfing the soul in the shadows of despair.",darkness,10-07-2016 18:20,soulinshadow,facebook,#darkness #soulengulfed,28,55,usa,2016,7,10,18
+439,443,"desperation whispers, the silent plea for a glimmer of hope in the abyss.",desperation,30-04-2019 14:00,whispereddespair,instagram,#desperation #glimmerofhope,22,45,france,2019,4,30,14
+440,444,"heart in ruins, the remnants of shattered dreams scattered in the wind.",ruins,08-01-2022 11:30,dreamsinwind,twitter,#ruins #shattereddreams,20,40,brazil,2022,1,8,11
+441,445,"shattered by the echoes of a shattered dream, fragments of hope scattered.",desolation,10-09-2017 19:15,dreamechoes,twitter,#desolation #scatteredhope,20,40,australia,2017,9,10,19
+442,446,"avoiding the thorns of regret, walking barefoot on the path of remorse.",regret,18-04-2022 11:30,remorsewalker,instagram,#regret #pathofremorse,25,50,canada,2022,4,18,11
+443,447,"in the labyrinth of grief, the walls echo with the footsteps of lost joy.",grief,05-12-2018 21:45,joylabyrinth,facebook,#grief #lostjoyfootsteps,18,35,usa,2018,12,5,21
+444,448,"a soul adrift in the sea of solitude, waves of loneliness crashing relentlessly.",loneliness,28-06-2016 14:20,solitudeseas,twitter,#loneliness #crashingwaves,22,45,uk,2016,6,28,14
+445,449,"the bitterness of betrayal, a taste that lingers, staining the palate of trust.",bitterness,22-10-2019 17:00,palatestainer,instagram,#bitterness #stainedtrust,15,30,germany,2019,10,22,17
+446,450,"in the ruins of hope, echoes of shattered dreams whisper tales of loss.",desolation,15-03-2021 22:45,hoperuins,facebook,#desolation #whisperedloss,28,55,brazil,2021,3,15,22
+447,451,"sinking like a stone in the ocean of heartbreak, each ripple a sigh of despair.",heartbreak,10-08-2017 19:30,oceansinker,twitter,#heartbreak #rippleofdespair,22,45,france,2017,8,10,19
+448,452,"tears, the ink staining the pages of a journal, a testament to silent grief.",grief,28-01-2023 14:30,inkjournalist,instagram,#grief #silenttears,30,60,india,2023,1,28,14
+449,453,"in the wasteland of lost trust, the echoes of broken promises reverberate.",betrayal,12-12-2016 10:00,trustwasteland,facebook,#betrayal #reverberatingpromises,25,50,italy,2016,12,12,10
+450,454,"avoiding the shards of shattered dreams, walking the tightrope of resilience.",resilience,18-07-2020 15:15,dreamtightrope,twitter,#resilience #tightropewalk,35,70,japan,2020,7,18,15
+451,455,"suffocating in the silence of solitude, where echoes of laughter once thrived.",isolation,20-05-2022 20:30,echoedlaughter,instagram,#isolation #silentsolitude,30,60,south africa,2022,5,20,20
+452,456,"haunted by the specter of lost possibilities, a ghost that refuses to fade away.",regret,08-11-2019 14:45,possibilityghost,twitter,#regret #fadingpossibilities,18,35,spain,2019,11,8,14
+453,457,"in the labyrinth of despair, the echoes of a broken heart reverberate endlessly.",despair,28-03-2017 22:00,endlesslabyrinth,facebook,#despair #endlessreverberation,28,55,australia,2017,3,28,22
+454,458,"sinking like autumn leaves in the river of sorrow, carried away by the current.",sorrow,15-09-2020 18:15,riverofsorrow,instagram,#sorrow #autumnleaves,22,45,canada,2020,9,15,18
+455,459,"in the garden of broken dreams, petals fall, a silent testimony to shattered hopes.",desolation,10-06-2018 13:30,dreamgardener,twitter,#desolation #shatteredhopes,20,40,uk,2018,6,10,13
+456,460,"tears, the currency of grief, spent in the marketplace of lost love and longing.",grief,22-12-2016 21:45,currencyoftears,facebook,#grief #lostlovelonging,25,50,usa,2016,12,22,21
+457,461,"wandering in the maze of betrayal, the walls closing in with every wrong turn.",betrayal,05-01-2021 16:20,mazewanderer,instagram,#betrayal #closingwalls,15,30,germany,2021,1,5,16
+458,462,"a soul weathered by the storm of heartbreak, seeking refuge in the calm after.",heartbreak,18-04-2019 11:00,stormseeker,twitter,#heartbreak #calmafterstorm,22,45,brazil,2019,4,18,11
+459,463,"in the tapestry of despair, threads of hope unravel, leaving a portrait of sorrow.",despair,28-08-2017 19:30,tapestrysorrow,facebook,#despair #unraveledhope,18,35,india,2017,8,28,19
+460,464,"like a withered rose in the garden of love, petals fall, a silent surrender to time.",loss,10-02-2023 14:30,witheredrose,instagram,#loss #silentsurrender,28,55,france,2023,2,10,14
+461,465,"in the void of heartache, echoes of a love song play, each note a pang of longing.",heartache,10-07-2022 22:15,lovesongecho,instagram,#heartache #lovesonglonging,30,60,japan,2022,7,10,22
+462,466,"nostalgia, a bittersweet dance in the moonlit ballroom of cherished memories.",nostalgia,15-05-2019 21:30,moonlitmemories,twitter,#nostalgia #cherishedmemories,18,35,italy,2019,5,15,21
+463,467,"in the symphony of grief, each tear is a note, composing a melancholic melody.",grief,28-11-2018 14:00,symphonyoftears,facebook,#grief #melancholicmelody,22,45,germany,2018,11,28,14
+464,468,"betrayal, a venomous serpent slithering through the garden of trust, poisoning roots.",betrayal,02-03-2021 17:45,venomousgarden,instagram,#betrayal #poisonedtrust,25,50,canada,2021,3,2,17
+465,469,"sinking in the quicksand of despair, the harder you fight, the deeper you descend.",despair,18-10-2016 19:30,quicksandfighter,twitter,#despair #deepdescent,20,40,usa,2016,10,18,19
+466,470,"wandering through the cemetery of lost dreams, tombstones marking untold sorrows.",desolation,15-08-2020 12:30,dreamcemetery,facebook,#desolation #untoldsorrows,28,55,france,2020,8,15,12
+467,471,"swept away by the river of regret, the currents of the past refusing to release.",regret,28-04-2017 16:20,regretriver,instagram,#regret #pastcurrents,18,35,uk,2017,4,28,16
+468,472,"whispers of lost love linger in the attic of the heart, forgotten but not erased.",loss,10-09-2019 21:00,heartattic,twitter,#loss #forgottenlove,22,45,australia,2019,9,10,21
+469,473,"in the gallery of broken promises, each shattered vow framed, a painful exhibition.",betrayal,28-01-2022 13:45,promisegallery,facebook,#betrayal #shatteredvows,15,30,brazil,2022,1,28,13
+470,474,"the echoes of solitude, a silent conversation between a soul and its shadows.",solitude,15-06-2016 22:30,echoedconversation,instagram,#solitude #shadowconversation,30,60,spain,2016,6,15,22
+471,475,"dancing on sunshine, each step a celebration of the joy found in simple moments.",joy,20-08-2021 15:45,sunshinedancer,instagram,#joy #simplemoments,40,80,usa,2021,8,20,15
+472,476,"laughter echoes in the air, a chorus of happiness that lifts the spirit higher.",happiness,12-04-2018 18:30,echoedlaughter,twitter,#happiness #spiritlifter,35,70,canada,2018,4,12,18
+473,477,"in the garden of contentment, each bloom whispers tales of inner peace and joy.",contentment,15-02-2022 12:20,gardenofjoy,facebook,#contentment #innerpeace,25,50,uk,2022,2,15,12
+474,478,"chasing dreams under the vibrant sky, a journey fueled by hope and enthusiasm.",enthusiasm,28-10-2019 14:15,dreamchaser,instagram,#enthusiasm #hopefuljourney,30,60,australia,2019,10,28,14
+475,479,"serenading the stars with a heart full of gratitude, a melody of thankfulness.",gratitude,22-12-2017 21:00,starserenader,twitter,#gratitude #thankfulmelody,22,45,india,2017,12,22,21
+476,480,"basking in the glow of accomplishment, each milestone a stepping stone to happiness.",accomplishment,10-06-2020 17:30,glowachiever,facebook,#accomplishment #happinessmilestone,28,55,germany,2020,6,10,17
+477,481,"in the dance of positivity, every step is a rhythm, uplifting the soul in harmony.",positivity,18-09-2016 19:45,danceharmony,instagram,#positivity #soulupliftment,18,35,france,2016,9,18,19
+478,482,"overflowing with joy, a cup of laughter shared with friends, a moment cherished.",joy,10-03-2023 14:30,laughtercup,twitter,#joy #cherishedmoment,20,40,japan,2023,3,10,14
+479,483,"draped in the warmth of kindness, a quilt of compassion stitched with love.",kindness,05-05-2019 12:15,quiltedcompassion,facebook,#kindness #lovestitches,25,50,brazil,2019,5,5,12
+480,484,"in the garden of friendships, each bloom a testament to the beauty of camaraderie.",friendship,28-08-2018 16:00,friendshipgarden,instagram,#friendship #camaraderieblooms,30,60,south africa,2018,8,28,16
+481,485,"in the embrace of love, each heartbeat is a melody, dancing to the rhythm of affection.",love,15-11-2022 20:45,melodyoflove,twitter,#love #rhythmofaffection,35,70,usa,2022,11,15,20
+482,486,"surrounded by the colors of joy, a canvas painted with laughter and endless smiles.",joy,02-07-2019 17:00,colorfullaughter,instagram,#joy #endlesssmiles,40,80,canada,2019,7,2,17
+483,487,"in the symphony of excitement, each note is a burst of energy, igniting the soul with fervor.",excitement,18-04-2021 14:20,symphonyfervor,facebook,#excitement #ignitedsoul,30,60,uk,2021,4,18,14
+484,488,"a surprise gift, wrapped in anticipation, unfolds a moment of delight and wonder.",surprise,05-02-2023 19:30,wrappeddelight,twitter,#surprise #wonderfulmoment,25,50,australia,2023,2,5,19
+485,489,"lost in the maze of curiosity, each twist and turn unveils the treasures of discovery.",curiosity,22-09-2018 12:45,mazediscovery,instagram,#curiosity #treasuresofdiscovery,22,45,india,2018,9,22,12
+486,490,"floating on clouds of gratitude, each raindrop a blessing, a shower of thankfulness.",gratitude,10-12-2016 21:15,cloudsofblessings,facebook,#gratitude #showerofthankfulness,28,55,germany,2016,12,10,21
+487,491,"like a comet of inspiration, streaking through the sky of creativity, leaving trails of brilliance.",inspiration,28-05-2020 16:00,cometcreativity,twitter,#inspiration #brillianttrails,18,35,france,2020,5,28,16
+488,492,"in the celebration of success, fireworks of accomplishment light up the night sky of triumph.",success,15-11-2017 22:30,fireworkstriumph,instagram,#success #nightskytriumph,22,45,japan,2017,11,15,22
+489,493,"a symphony of laughter, each note a key to unlocking the door of boundless happiness.",happiness,02-08-2021 19:00,laughtersymphony,facebook,#happiness #boundlesslaughter,30,60,brazil,2021,8,2,19
+490,494,"in the carnival of emotions, the rollercoaster of thrill sends the heart on a wild ride.",thrill,28-03-2019 15:30,emotioncarnival,instagram,#thrill #wildheartride,35,70,south africa,2019,3,28,15
+491,495,"standing before the grandeur of the eiffel tower, a moment to reflect on the beauty of parisian dreams.",reflection,12-05-2018 17:30,parisdreamer,twitter,#reflection #parisiandreams,28,55,france,2018,5,12,17
+492,496,"lost in the enchantment of disneyland, each ride a journey into the realm of childhood fantasies.",enchantment,28-09-2022 15:45,disneylandexplorer,instagram,#enchantment #childhoodfantasies,30,60,usa,2022,9,28,15
+493,497,"exploring the wonders of ferrari world, the roar of engines creating a symphony of speed.",excitement,10-11-2019 14:00,ferrarispeedster,facebook,#excitement #symphonyofspeed,22,45,italy,2019,11,10,14
+494,498,"amidst the tulip fields of keukenhof, a tapestry of colors that paints the soul with springtime joy.",joy,02-04-2021 18:20,keukenhofadventurer,instagram,#joy #springtimecolors,35,70,netherlands,2021,4,2,18
+495,499,"wandering through the historical streets of kyoto, each step a journey into the heart of japan's traditions.",exploration,22-08-2017 21:30,kyotoadventurer,twitter,#exploration #japanesetraditions,18,35,japan,2017,8,22,21
+496,500,"in the embrace of the grand canyon, nature's masterpiece, a moment to marvel at earth's grandeur.",awe,15-06-2020 16:45,canyonmarveler,instagram,#awe #earthsgrandeur,25,50,usa,2020,6,15,16
+497,501,"journeying through the serenity of santorini, where each sunset paints the sky with hues of tranquility.",serenity,10-09-2016 19:15,santorinitraveler,facebook,#serenity #sunsethues,22,45,greece,2016,9,10,19
+498,502,"amazed by the architectural marvels of petra, each stone telling tales of an ancient civilization.",amazement,28-01-2023 13:00,petraexplorer,twitter,#amazement #ancienttales,30,60,jordan,2023,1,28,13
+499,503,"embarking on a gondola ride in venice, each canal reflecting the romance of this timeless city.",romance,18-04-2019 16:30,veniceromantic,instagram,#romance #timelesscity,20,40,italy,2019,4,18,16
+500,504,"at the summit of machu picchu, a breathtaking panorama that whispers the secrets of ancient civilizations.",awe,05-11-2017 22:00,machupicchuadventurer,facebook,#awe #ancientcivilizations,28,55,peru,2017,11,5,22
+501,505,"in the heart of new york city, times square dazzles with lights, a vibrant spectacle of urban energy.",excitement,20-07-2022 21:45,timessquareexplorer,instagram,#excitement #urbanenergy,35,70,usa,2022,7,20,21
+502,506,"captivated by the historical charm of the colosseum, each stone echoing tales of gladiator valor.",captivation,15-03-2018 17:30,colosseumadventurer,twitter,#captivation #gladiatortales,25,50,italy,2018,3,15,17
+503,507,"sailing the azure waters of the maldives, each wave a whisper of serenity in paradise.",serenity,28-10-2019 14:15,maldivessailor,facebook,#serenity #paradisewhispers,22,45,maldives,2019,10,28,14
+504,508,"in the midst of the amazon rainforest, a symphony of wildlife creates an orchestra of nature's wonders.",wonder,10-06-2021 16:00,amazonexplorer,instagram,#wonder #natureorchestra,30,60,brazil,2021,6,10,16
+505,509,"walking the great wall of china, each step a testament to ancient engineering marvels.",awe,18-08-2017 19:30,greatwallwalker,twitter,#awe #engineeringmarvels,18,35,china,2017,8,18,19
+506,510,"at the summit of mount fuji, a breathtaking sunrise that paints the sky with hues of accomplishment.",accomplishment,15-04-2020 05:30,fujisummitachiever,facebook,#accomplishment #sunrisehues,28,55,japan,2020,4,15,5
+507,511,"exploring the ancient ruins of angkor wat, each stone whispering stories of khmer civilization.",exploration,22-11-2016 13:00,angkorwatadventurer,instagram,#exploration #khmerstories,20,40,cambodia,2016,11,22,13
+508,512,"skiing down the slopes of the swiss alps, each turn a dance with the majesty of snow-capped peaks.",adventure,10-01-2019 14:45,alpsskiadventurer,twitter,#adventure #snowpeakdance,22,45,switzerland,2019,1,10,14
+509,513,"in the tranquility of kyoto's bamboo forest, whispers of ancient zen wisdom echo through the groves.",tranquility,28-02-2023 16:20,kyotobambooseeker,facebook,#tranquility #zenwisdom,25,50,japan,2023,2,28,16
+510,514,"cruising the fjords of norway, each icy landscape a breathtaking masterpiece of nature's grandeur.",grandeur,28-05-2018 18:30,norwayfjordexplorer,instagram,#grandeur #icymasterpiece,22,45,norway,2018,5,28,18
+511,515,"at the front row of adele's concert, each note of 'someone like you' resonates with soul-stirring emotion.",emotion,15-09-2022 20:00,adeleconcertgoer,instagram,#emotion #adeleconcert,40,80,usa,2022,9,15,20
+512,516,"dancing under the stars at beyoncé's live show, feeling the power of 'single ladies' in every move.",energy,28-07-2019 21:30,beyoncedancer,twitter,#energy #beyonceconcert,35,70,usa,2019,7,28,21
+513,517,"in the crowd of a taylor swift concert, the lyrics of 'love story' create an enchanting fairy tale.",enchantment,10-05-2021 19:45,swiftiedreamer,facebook,#enchantment #taylorswift,30,60,usa,2021,5,10,19
+514,518,"rocking out to the guitar solos at a queen tribute concert, a journey back in time with freddie's spirit.",nostalgia,02-12-2018 22:15,queentributefan,instagram,#nostalgia #queentribute,22,45,uk,2018,12,2,22
+515,519,"swaying to ed sheeran's acoustic melodies, a serene evening filled with 'perfect' moments.",serenity,18-08-2020 19:00,sheeranmelodylover,twitter,#serenity #edsheeranconcert,18,35,uk,2020,8,18,19
+516,520,"immersed in the pulsating beats of a bruno mars concert, where 'uptown funk' becomes a city of joy.",joy,28-03-2017 20:30,marsjoyexplorer,facebook,#joy #brunomars,28,55,usa,2017,3,28,20
+517,521,"at a michael jackson tribute show, moonwalking through the hits, a celebration of the king of pop.",celebration,15-01-2022 21:15,mjtributedancer,instagram,#celebration #mjtribute,25,50,usa,2022,1,15,21
+518,522,"swinging to the rhythms of a frank sinatra tribute, feeling the timeless charm of 'fly me to the moon'.",charm,10-06-2019 18:45,sinatracharmlistener,twitter,#charm #sinatratribute,22,45,usa,2019,6,10,18
+519,523,"in the mosh pit of a metallica concert, the thunderous chords create a symphony of headbanging ecstasy.",ecstasy,20-03-2023 22:30,metallicamoshwarrior,facebook,#ecstasy #metallicaconcert,35,70,usa,2023,3,20,22
+520,524,"experiencing the magic of a coldplay concert, where 'fix you' becomes a beacon of hope in the night.",hope,28-11-2016 19:00,coldplayhopeseeker,instagram,#hope #coldplaymagic,30,60,uk,2016,11,28,19
+521,525,"at a justin bieber concert, the infectious beats of 'baby' create a dance floor of unbridled enthusiasm.",enthusiasm,05-08-2018 20:00,bieberdanceenthusiast,instagram,#enthusiasm #justinbieber,40,80,canada,2018,8,5,20
+522,526,"in the spotlight at a lady gaga show, each costume change is a metamorphosis of creativity and artistry.",creativity,15-04-2021 21:30,gagaartisticchameleon,twitter,#creativity #ladygaga,35,70,usa,2021,4,15,21
+523,527,"immersed in the soulful melodies of adele, tears flow freely, moved by the emotion of 'hello'.",emotion,28-11-2019 19:45,adelemelodytearjerker,facebook,#emotion #adelemelodies,30,60,uk,2019,11,28,19
+524,528,"drenched in confetti at a katy perry concert, a kaleidoscope of colors igniting the night sky.",colorful,22-06-2020 22:00,katyperrycolorexplosion,instagram,#colorful #katyperry,22,45,usa,2020,6,22,22
+525,529,"in the audience of a jay-z performance, the lyrics of 'empire state of mind' become an anthem of pride.",pride,10-09-2017 20:15,jayzempirelistener,twitter,#pride #jayzanthem,18,35,usa,2017,9,10,20
+526,530,"dancing to shakira's rhythmic beats, hips swaying to the hypnotic charm of 'hips don't lie'.",hypnotic,28-02-2022 21:15,shakirahipsdancer,facebook,#hypnotic #shakirarhythms,28,55,colombia,2022,2,28,21
+527,531,"at a u2 concert, the anthemic chords of 'with or without you' create a timeless moment of connection.",connection,15-05-2016 19:30,u2connectionseeker,instagram,#connection #u2anthem,25,50,ireland,2016,5,15,19
+528,532,"rocking out at a guns n' roses show, the iconic riffs of 'sweet child o' mine' echoing in the night.",iconic,10-12-2018 22:30,gunsnrosesriffrockstar,twitter,#iconic #gnrconcert,22,45,usa,2018,12,10,22
+529,533,"in the crowd of an ariana grande concert, the high notes of 'into you' create a euphoric symphony.",euphoria,22-01-2023 20:00,arianaeuphoriachaser,facebook,#euphoria #arianagrande,35,70,usa,2023,1,22,20
+530,534,"swaying to the reggae vibes of bob marley's tribute concert, each chord a journey to jamaica's soul.",journey,05-03-2020 18:45,marleyreggaetraveler,instagram,#journey #bobmarleytribute,30,60,jamaica,2020,3,5,18
+531,535,"captivated by the spellbinding plot twists, the audience applauds, experiencing a rollercoaster of emotions at the movie premiere.",excitement,12-10-2018 20:00,movieenthusiastpremiereattendee,twitter,#excitement #moviepremierethrills,40,80,usa,2018,10,12,20
+532,536,"as the credits roll, a profound sense of nostalgia washes over, reminiscent of cherished moments in classic films.",nostalgia,25-06-2019 22:15,filmlovernostalgiaseeker,instagram,#nostalgia #classicfilmmoments,35,70,uk,2019,6,25,22
+533,537,"streaming the latest web series, the viewer is engrossed in the characters' journey, feeling a sense of connection and empathy.",engagement,08-07-2020 19:30,webseriesviewercharacterconnection,facebook,#engagement #webseriesjourney,30,60,canada,2020,7,8,19
+534,538,"at the film festival, the indie filmmaker's creation receives a standing ovation, evoking pride and a sense of accomplishment.",pride,18-09-2017 21:45,indiefilmmakerfestivalsuccess,twitter,#pride #indiefilmsuccess,22,45,australia,2017,9,18,21
+535,539,"watching a heartwarming family drama, tears flow freely as the characters overcome challenges, leaving the viewer with a warm glow.",touched,15-01-2021 18:00,dramaenthusiastheartwarmingmoments,instagram,#touched #familydramamoments,28,55,india,2021,1,15,18
+536,540,"at the oscars, the actor graciously accepts an award, radiating joy and gratitude for the recognition of their outstanding performance.",gratitude,28-02-2016 20:30,awardwinningactoroscarsrecipient,facebook,#gratitude #oscarwinningmoment,18,35,usa,2016,2,28,20
+537,541,"discovering a hidden gem in the world of documentaries, the viewer is enlightened and inspired, feeling a renewed sense of curiosity.",inspiration,20-04-2022 17:30,documentaryenthusiasthiddengemfinder,twitter,#inspiration #hiddengemdiscovery,22,45,france,2022,4,20,17
+538,542,"as the movie credits roll, the viewer experiences a mix of awe and contemplation, pondering the deeper meanings woven into the storyline.",contemplation,05-11-2019 21:15,filmbuffcontemplativeviewer,instagram,#contemplation #deepmeanings,28,55,germany,2019,11,5,21
+539,543,"binge-watching a thrilling crime series, the suspense keeps the viewer on the edge of their seat, creating a rush of adrenaline.",suspense,12-07-2015 22:00,crimeseriesenthusiastthrillseeker,facebook,#suspense #crimeseriesthrills,35,70,japan,2015,7,12,22
+540,544,"as the closing scene unfolds, a sense of satisfaction washes over, completing the cinematic journey with a profound and fulfilling ending.",satisfaction,10-09-2020 19:45,filmcriticsatisfactionseeker,twitter,#satisfaction #fulfillingending,22,45,brazil,2020,9,10,19
+541,545,"celebrating a historic victory in the world cup, the nation erupts in joy, united by the triumph of their football team.",joy,15-07-2018 21:30,footballfanworldcupcelebration,instagram,#joy #worldcuptriumph,40,80,brazil,2018,7,15,21
+542,546,"at the olympics, the athlete's perseverance shines through, earning a gold medal and inspiring a generation with their remarkable achievement.",inspiration,08-08-2020 19:45,olympicsenthusiastgoldmedalwinner,twitter,#inspiration #olympicachievement,35,70,usa,2020,8,8,19
+543,547,"in the cricket championship, a nail-biting finish leaves fans on the edge of their seats, experiencing a rollercoaster of emotions.",excitement,25-06-2019 22:15,cricketfanchampionshipthrills,facebook,#excitement #cricketchampionship,30,60,india,2019,6,25,22
+544,548,"witnessing a record-breaking marathon, spectators are filled with awe and admiration for the endurance and dedication of the runners.",admiration,07-11-2021 17:30,marathonspectatorrecordbreaking,instagram,#admiration #marathonrecords,22,45,kenya,2021,11,7,17
+545,549,"in the tennis grand slam, a fierce rivalry unfolds, captivating fans with a display of skill and sportsmanship on the world stage.",captivation,10-09-2017 20:15,tennisenthusiastgrandslamdrama,twitter,#captivation #tennisrivalry,28,55,uk,2017,9,10,20
+546,550,"cheering for the underdog in the basketball finals, the crowd erupts in applause as the team defies odds to claim the championship title.",triumph,20-06-2022 21:00,basketballfanunderdogtriumph,facebook,#triumph #basketballfinals,18,35,usa,2022,6,20,21
+547,551,"at the golf tournament, the golfer's precision and focus lead to a stunning victory, leaving spectators in awe of their exceptional skill.",awe,10-04-2016 18:30,golfenthusiastprecisionvictory,instagram,#awe #golfvictory,22,45,scotland,2016,4,10,18
+548,552,"experiencing the thrill of a high-speed formula 1 race, fans are on the edge of their seats as drivers compete for the championship.",thrill,24-11-2019 19:45,f1fanhighspeedraceexcitement,twitter,#thrill #formula1championship,28,55,germany,2019,11,24,19
+549,553,"in the cycling world championship, the climber conquers challenging terrains, symbolizing determination and achievement against all odds.",determination,28-09-2015 22:30,cyclingenthusiastworldchampion,facebook,#determination #cyclingchampion,35,70,italy,2015,9,28,22
+550,554,"witnessing a heartwarming comeback in the hockey finals, fans share tears of joy as the team secures a historic victory after adversity.",heartwarming,12-12-2020 20:00,hockeyfancomebackvictory,instagram,#heartwarming #hockeyfinalscomeback,22,45,canada,2020,12,12,20
+551,555,"after a series of defeats, the soccer team faces disappointment, struggling to find the silver lining in a challenging season.",disappointment,02-11-2019 18:45,soccerfanteamdefeats,twitter,#disappointment #soccerdefeats,40,80,brazil,2019,11,2,18
+552,556,"in the tennis tournament, a highly anticipated player experiences a setback, leaving fans in shock and questioning the unforeseen turn of events.",frustration,10-07-2018 21:15,tennisenthusiastunexpectedsetback,instagram,#frustration #tennissetback,35,70,usa,2018,7,10,21
+553,557,"facing a defeat in the championship, the boxer reflects on the challenges, vowing to return stronger and more determined in the next bout.",reflection,18-09-2020 19:30,boxingfanchampionshipdefeat,facebook,#reflection #boxingdefeat,30,60,uk,2020,9,18,19
+554,558,"in the midst of a cycling race, a tire blowout leads to frustration for the cyclist, who valiantly tries to overcome the unexpected obstacle.",obstacle,15-05-2017 22:00,cyclingenthusiasttireblowout,twitter,#obstacle #cyclingfrustration,22,45,france,2017,5,15,22
+555,559,"the gymnast's unexpected fall during a routine sparks a wave of sympathy from the audience, highlighting the vulnerability of sports.",sympathy,05-04-2021 20:15,gymnasticsfanroutinefall,instagram,#sympathy #gymnasticsfall,28,55,japan,2021,4,5,20
+556,560,"in the golf tournament, a missed crucial putt results in defeat, causing the golfer to reflect on the pressure of high-stakes competition.",pressure,20-08-2016 18:30,golfenthusiastmissedputt,facebook,#pressure #golfdefeat,18,35,usa,2016,8,20,18
+557,561,"experiencing a series of losses in the basketball season, the team grapples with frustration, determined to turn the tide with renewed effort.",renewed effort,12-02-2019 19:45,basketballfanteamlosses,twitter,#renewedeffort #basketballstruggles,22,45,canada,2019,2,12,19
+558,562,"despite meticulous training, the swimmer faces disappointment as a split-second miscalculation costs them the lead in a crucial race.",miscalculation,28-06-2015 20:00,swimmingenthusiastracesetback,instagram,#miscalculation #swimmingdisappointment,28,55,australia,2015,6,28,20
+559,563,"the weightlifter's failed attempt at a personal record results in frustration, highlighting the challenging nature of pushing physical limits.",challenge,08-01-2022 21:30,weightliftingfanfailedrecord,facebook,#challenge #weightliftingfailure,35,70,germany,2022,1,8,21
+560,564,"in the midst of a soccer match, an unexpected own goal creates a moment of despair for the player, as teammates console and encourage them.",despair,15-12-2018 20:15,soccerplayerowngoalmoment,twitter,#despair #owngoal,22,45,spain,2018,12,15,20
+561,565,"in the serene beauty of a sunset, nature unfolds a canvas of colors, evoking a sense of tranquility and wonder.",tranquility,10-07-2021 19:00,natureenthusiastsunsetwonder,instagram,#tranquility #sunsetbeauty,40,80,canada,2021,7,10,19
+562,566,"embarking on a spontaneous road trip, the traveler discovers hidden gems, creating memories that will be cherished for a lifetime.",adventure,28-09-2019 20:30,travelenthusiastroadtripdiscovery,twitter,#adventure #roadtripmemories,35,70,usa,2019,9,28,20
+563,567,"amidst the bustling city, a quiet café becomes a sanctuary for reflection, where a cup of coffee brings solace to the wandering mind.",solace,15-03-2022 18:45,urbanexplorercafesolitude,facebook,#solace #cafereflection,30,60,france,2022,3,15,18
+564,568,"exploring the vibrant street art of a cultural neighborhood, each mural tells a story, infusing the city with creativity and expression.",creativity,05-11-2017 21:15,artenthusiaststreetartexploration,instagram,#creativity #streetartvibes,22,45,brazil,2017,11,5,21
+565,569,"in the world of science, a breakthrough discovery unfolds, pushing the boundaries of knowledge and opening new frontiers of exploration.",breakthrough,20-05-2020 16:30,scienceenthusiastdiscoverymoment,twitter,#breakthrough #scientificdiscovery,28,55,germany,2020,5,20,16
+566,570,"connecting with the melody of a live orchestra, the music enthusiast experiences a symphony that resonates deep within the soul.",harmony,22-08-2016 19:45,musicloverliveorchestraexperience,facebook,#harmony #orchestramelody,18,35,uk,2016,8,22,19
+567,571,"embracing the aroma of freshly baked bread, the home chef finds joy in the art of baking, creating delicious memories for loved ones.",joy in baking,10-04-2023 17:15,homebakerdeliciousmemories,instagram,#joyinbaking #homemadedelights,22,45,india,2023,4,10,17
+568,572,"wandering through a historical museum, the history enthusiast becomes immersed in the tales of the past, envisioning bygone eras.",envisioning history,18-12-2015 18:00,historybuffmuseumexploration,twitter,#envisioninghistory #museumtales,28,55,italy,2015,12,18,18
+569,573,"in the realm of literature, a captivating novel transports the reader to distant lands, weaving a tapestry of imagination and escape.",imagination,08-10-2021 20:30,bookwormcaptivatingnovelescape,facebook,#imagination #literaryescape,35,70,japan,2021,10,8,20
+570,574,"capturing the essence of a bustling market, the photographer freezes moments in time, each frame telling a unique and vibrant story.",vibrancy,22-03-2019 21:45,photographyenthusiastmarketmoments,instagram,#vibrancy #marketstories,22,45,australia,2019,3,22,21
+571,575,"underneath the city lights, the dancer expresses emotions through graceful movements, creating a mesmerizing performance under the night sky.",mesmerizing,15-06-2018 22:00,danceenthusiastcitynightperformance,twitter,#mesmerizing #nightdanceperformance,40,80,usa,2018,6,15,22
+572,576,"in the heart of a bustling market, the street food connoisseur indulges in a culinary adventure, savoring diverse flavors and aromas.",culinary adventure,28-08-2019 19:30,foodiemarketstreetfoodexploration,instagram,#culinaryadventure #streetfooddelights,35,70,thailand,2019,8,28,19
+573,577,"as the first snowflake descends, the winter enthusiast eagerly prepares for a season of frosty delights, anticipating the magic of snow-covered landscapes.",winter magic,01-12-2022 17:45,snowloverwinterenthusiast,facebook,#wintermagic #snowylandscapes,30,60,canada,2022,12,1,17
+574,578,"amidst the pages of a captivating mystery novel, the reader unravels clues and secrets, experiencing a thrilling journey of suspense and revelation.",thrilling journey,10-04-2017 21:15,mysterybookwormsuspensefulread,twitter,#thrillingjourney #mysterynovel,22,45,uk,2017,4,10,21
+575,579,"surrounded by the vibrant colors of a flower garden, the gardener nurtures blossoms, finding joy in the beauty of nature's ever-changing canvas.",nature's beauty,15-05-2020 18:30,gardeningenthusiastflowergarden,instagram,#naturesbeauty #floraljoy,28,55,australia,2020,5,15,18
+576,580,"at the astronomy observatory, the stargazer marvels at the vastness of the cosmos, contemplating the mysteries hidden within the celestial expanse.",celestial wonder,22-09-2016 20:00,astronomyenthusiaststargazing,facebook,#celestialwonder #stargazing,18,35,usa,2016,9,22,20
+577,581,"engulfed in the aroma of freshly brewed coffee, the writer finds inspiration in every sip, embarking on a journey of creativity and prose.",creative inspiration,12-02-2023 19:45,coffeeloverwritersretreat,twitter,#creativeinspiration #coffeejourney,22,45,france,2023,2,12,19
+578,582,"in the realm of fashion, the designer unveils a collection that tells a story, blending innovation and tradition on the runway of creativity.",runway creativity,10-11-2015 21:00,fashionenthusiastdesignershowcase,instagram,#runwaycreativity #fashioninnovation,28,55,italy,2015,11,10,21
+579,583,"as the waves crash against the shore, the surfer embraces the thrill of riding the ocean's energy, capturing the essence of freedom in each wave.",ocean's freedom,20-07-2021 18:15,surfingenthusiastwaverider,facebook,#oceansfreedom #surfingthrills,22,45,brazil,2021,7,20,18
+580,584,"exploring the historical architecture of an ancient city, the traveler is transported to a bygone era, where each monument whispers tales of the past.",whispers of the past,18-04-2019 20:30,historyexplorerancientcitytour,twitter,#whispersofthepast #historicaltour,35,70,greece,2019,4,18,20
+581,585,successfully avoided eye contact with my crush in the hallway. mission accomplished. #teencrush #stealthmode,excitement,20-05-2023 19:45,crushavoider,twitter,#crushstruggles #avoidingeyecontact,15,30,usa,2023,5,20,19
+582,586,ran out of snacks during a movie marathon. crisis level: emergency! #movienightstruggles #teenproblems,boredom,21-05-2023 21:00,moviebuff,instagram,#snackcrisis #teenlife,18,35,canada,2023,5,21,21
+583,587,spent an hour choosing the perfect filter for a selfie. the struggle for that instagram aesthetic is real. #selfiequeen #teenvibes,joy,22-05-2023 14:30,selfieaddict,facebook,#selfiestruggle #teenconfessions,22,45,uk,2023,5,22,14
+584,588,lost my headphones again. how do they vanish into thin air? #headphonemystery #teenlife,frustration,23-05-2023 16:45,audioexplorer,twitter,#teenproblems #lostheadphones,20,40,usa,2023,5,23,16
+585,589,decided to study for exams but ended up making memes about studying instead. procrastination level: expert. #procrastinationnation #teenconfessions,surprise,24-05-2023 13:15,memecreator,instagram,#studyingmemes #teenlife,25,50,canada,2023,5,24,13
+586,590,"got dressed for the day, then remembered it's saturday. oops. #weekendvibes #teenstruggles",indifference,25-05-2023 19:00,fashionblunder,facebook,#weekendoops #teenfashion,20,40,usa,2023,5,25,19
+587,591,survived a group project without any drama. miracles do happen. #groupprojectsuccess #teenachievements,satisfaction,26-05-2023 14:20,groupgenius,twitter,#teensuccess #projectmiracle,28,55,uk,2023,5,26,14
+588,592,"entered the kitchen with the intention to cook. left with a bag of chips. cooking is overrated, anyway. #masterchefintraining #teenhumor",disgust,27-05-2023 21:15,chipexplorer,instagram,#teenchef #cookingfail,22,45,canada,2023,5,27,21
+589,593,"staring at the clock in class, waiting for the bell to ring like it's the most exciting event of the day. #classcountdown #teenlife",surprise,28-05-2023 12:00,excitementseeker,facebook,#classevent #teenexcitement,18,35,usa,2023,5,28,12
+590,594,"discovered a new book series and spent the whole night reading. who needs sleep, anyway? #bookwormlife #latenightreading",joy,29-05-2023 23:30,nightreader,twitter,#bookdiscoveries #teenreading,30,60,uk,2023,5,29,23
+591,595,"bought a new video game, played for hours, forgot to eat. the ultimate gaming session. #gamerlife #nofoodgaming",excitement,30-05-2023 20:45,gamingenthusiast,instagram,#gameon #teengamer,22,45,usa,2023,5,30,20
+592,596,spent the day binge-watching a new series. productivity level: zero. #lazyday #tvseriesmarathon,joy,31-05-2023 15:30,lazywatcher,facebook,#bingewatchday #teenlife,35,70,canada,2023,5,31,15
+593,597,caught up on the latest fashion trends and now planning a shopping spree. #fashionista #trendyteen,excitement,01-06-2023 18:00,trendexplorer,twitter,#fashiongoals #teenstyle,20,40,usa,2023,6,1,18
+594,598,decided to learn a new instrument. day one: still trying to figure out how to hold it. #musicnovice #learningjourney,frustration,02-06-2023 14:30,musicalexplorer,instagram,#instrumentlearning #teenmusic,28,55,uk,2023,6,2,14
+595,599,spent hours creating the perfect playlist for every mood. music is my therapy. #playlistmaker #teenmusiclover,joy,03-06-2023 21:15,musicaficionado,facebook,#musictherapy #teenplaylist,22,45,canada,2023,6,3,21
+596,600,successfully cooked a gourmet meal for the family. chef skills unlocked! #chefmode #teenchef,pride,04-06-2023 19:30,homechef,twitter,#cookingsuccess #teencook,25,50,usa,2023,6,4,19
+597,601,spontaneously booked a weekend getaway. adventure awaits! #travelbug #weekendescape,excitement,05-06-2023 10:00,adventureseeker,instagram,#getawaygoals #teentravel,18,35,uk,2023,6,5,10
+598,602,attended a concert and danced the night away. music is the heartbeat of life. #concertvibes #danceallnight,joy,06-06-2023 22:30,danceenthusiast,facebook,#musicmagic #teenconcert,28,55,canada,2023,6,6,22
+599,603,rediscovered childhood cartoons and had a nostalgia-filled marathon. #cartoonnostalgia #teenmemories,joy,07-06-2023 12:45,nostalgiaexplorer,twitter,#childhoodmemories #teencartoons,22,45,usa,2023,6,7,12
+600,604,embarked on a diy home decor project. let's hope it turns out better than last time. #diyadventure #teenhomedecor,excitement,08-06-2023 16:00,homedecorator,instagram,#diygoals #teencreative,35,70,uk,2023,6,8,16
+601,605,"spent the afternoon at a museum, pretending to be cultured. art enthusiast in the making. #museumday #teenartlover",curiosity,09-06-2023 14:00,artexplorer,facebook,#culturalday #teencuriosity,20,40,usa,2023,6,9,14
+602,606,started a blog about random thoughts and musings. blogging is the new diary. #bloggerlife #teenblogger,curiosity,10-06-2023 17:30,thoughtfulblogger,twitter,#bloggingjourney #teenthoughts,30,60,canada,2023,6,10,17
+603,607,relishing a peaceful afternoon with a classic novel. quiet moments are the best moments. #booklover #peacefulafternoon,contentment,11-06-2023 15:30,novelenthusiast,instagram,#quietmoments #bookishescape,35,70,usa,2023,6,11,15
+604,608,"reflecting on a lifetime of memories, each wrinkle tells a story. embracing the beauty of aging. #lifereflections #beautyinaging",gratitude,12-06-2023 18:00,wisesoul,twitter,#aginggracefully #memories,28,55,uk,2023,6,12,18
+605,609,exploring the world of digital art. it's never too late to discover new passions. #digitalartistry #latebloomer,curiosity,13-06-2023 14:45,artadventurer,facebook,#artdiscovery #seniorartist,22,45,canada,2023,6,13,14
+606,610,savoring the flavors of a home-cooked meal. simple joys are the heart of happiness. #homecooking #simplejoys,contentment,14-06-2023 19:30,homechefsenior,instagram,#happinessinfood #seniorlife,25,50,usa,2023,6,14,19
+607,611,embarking on a journey of learning a new language. the mind stays young with every new word. #languagelearning #nevertoolate,curiosity,15-06-2023 12:15,linguisticexplorer,twitter,#mindenrichment #seniorlearning,30,60,uk,2023,6,15,12
+608,612,"attended a classical music concert, feeling the timeless melodies resonate. music transcends generations. #classicalmusic #timelessmelodies",joy,16-06-2023 21:45,musicconnoisseur,facebook,#musiclover #seniorconcert,18,35,canada,2023,6,16,21
+609,613,capturing the beauty of nature through photography. every snapshot is a treasure. #naturephotography #seniorphotographer,joy,17-06-2023 15:00,photographysenior,instagram,#naturecapture #seniormoments,35,70,usa,2023,6,17,15
+610,614,"reconnecting with old friends over a cup of tea. friendship, the true essence of companionship. #oldfriends #companionship",contentment,18-06-2023 11:30,teatimesenior,twitter,#friendshipgoals #seniorbonding,28,55,uk,2023,6,18,11
+611,615,"embarked on a road trip to revisit cherished places from the past. nostalgia, the ultimate travel companion. #roadtrip #nostalgiatour",joy,19-06-2023 16:30,roadtripsenior,facebook,#cherishedplaces #seniortravel,22,45,canada,2023,6,19,16
+612,616,"joined a community choir, harmonizing with fellow voices. music creates bonds that withstand time. #communitychoir #harmonyinaging",joy,20-06-2023 14:20,choirenthusiast,instagram,#musicharmony #seniorvoices,20,40,usa,2023,6,20,14
+613,617,"exploring the art of meditation, finding tranquility in the stillness of the mind. #meditationjourney #tranquilmind",contentment,21-06-2023 19:00,meditationsenior,twitter,#mindfulliving #seniorcalm,18,35,uk,2023,6,21,19
+614,618,"taking a stroll in the garden, appreciating the beauty of blooming flowers. nature's wonders never cease. #gardenwalk #floralbeauty",contentment,22-06-2023 13:45,gardenenthusiast,facebook,#naturewonders #seniorgarden,25,50,usa,2023,6,22,13
+615,619,"sipping on a favorite vintage wine, each sip telling a story of the years gone by. cheers to a life well-lived. #winelover #vintagecheers",contentment,23-06-2023 18:45,wineconnoisseur,instagram,#lifewelllived #seniorwine,28,55,uk,2023,6,23,18
+616,620,"participated in a community art class, unleashing creativity in the golden years. art has no age limit. #artclass #seniorartistry",joy,24-06-2023 16:15,artisticsenior,twitter,#creativityatanyage #seniorcreativity,22,45,canada,2023,6,24,16
+617,621,"embarking on a journey of writing a memoir, documenting a lifetime of experiences. every story matters. #memoirwriting #seniorstories",gratitude,25-06-2023 20:30,memoiristsenior,facebook,#lifetimeexperiences #seniormemoir,35,70,usa,2023,6,25,20
+618,622,"attended a lecture on history, always fascinated by the lessons from the past. learning is a lifelong adventure. #historylecture #seniorlearning",curiosity,26-06-2023 14:00,historyenthusiast,instagram,#lifetimeadventure #seniorcuriosity,30,60,uk,2023,6,26,14
+619,623,"rediscovered the joy of cooking traditional family recipes. the kitchen, a place of cherished memories. #familyrecipes #seniorcooking",contentment,27-06-2023 17:45,familychefsenior,twitter,#kitchenmemories #seniorculinary,20,40,usa,2023,6,27,17
+620,624,"joined a nature photography club, capturing the beauty of the great outdoors. every click is a connection to nature. #naturephotography #seniorphotographer",joy,28-06-2023 22:15,naturephotographysenior,facebook,#outdoorbeauty #seniorclicks,18,35,uk,2023,6,28,22
+621,625,"attended a jazz concert and swayed to the rhythm of timeless tunes. music, a constant companion in the golden years. #jazzconcert #seniormusic",joy,29-06-2023 16:30,jazzmusiclover,instagram,#timelesstunes #seniorjazz,25,50,usa,2023,6,29,16
+622,626,"joined a writing group, penning down thoughts and reflections. writing, a journey into the depths of the soul. #writinggroup #seniorwriter",gratitude,30-06-2023 19:30,seniorwordsmith,twitter,#soulfulwriting #seniorreflections,28,55,uk,2023,6,30,19
+623,627,"embarked on a solo travel adventure, discovering the beauty of new places at my own pace. #solotravel #seniorexplorer",excitement,01-07-2023 14:00,soloadventurer,instagram,#discovernewplaces #seniortravel,30,60,usa,2023,7,1,14
+624,628,"attended a vintage car show, reminiscing about the classics that once ruled the roads. nostalgia in every rev. #vintagecars #classicrides",joy,02-07-2023 18:30,carenthusiastsenior,facebook,#roadtripdownmemorylane #seniorcars,22,45,uk,2023,7,2,18
+625,629,"started a community garden, growing not just plants but friendships too. green thumbs unite! #communitygarden #seniorgardener",joy,03-07-2023 12:45,greenthumbsenior,twitter,#gardenfriends #seniorgreenthumb,28,55,canada,2023,7,3,12
+626,630,"hosted a family dinner, where laughter echoed louder than the clinking of utensils. family, the heart of happiness. #familydinner #seniorhost",contentment,04-07-2023 17:00,familyhostsenior,instagram,#heartwarmingmoments #seniorfamily,35,70,usa,2023,7,4,17
+627,631,"enrolled in a dance class for seniors, moving to the rhythm of life. age is just a number on the dance floor. #danceclass #seniordancer",joy,05-07-2023 20:15,danceenthusiastsenior,twitter,#dancelife #seniormoves,18,35,uk,2023,7,5,20
+628,632,"visited an art gallery, appreciating the brushstrokes that tell tales of creativity. art, an eternal companion. #artgallery #seniorartlover",joy,06-07-2023 14:30,artgalleryvisitor,facebook,#creativeexpressions #seniorart,25,50,usa,2023,7,6,14
+629,633,"started a book club for seniors, where discussions are as lively as the characters in the novels. #bookclub #seniorreaders",joy,07-07-2023 19:45,seniorbookclub,instagram,#bookishtalks #seniorbookworms,22,45,uk,2023,7,7,19
+630,634,"hosted a picnic in the park, basking in the warmth of friendship and sunshine. simple joys, timeless memories. #parkpicnic #seniorjoy",contentment,08-07-2023 16:00,seniorpicnichost,twitter,#friendshipsunshine #seniormemories,30,60,canada,2023,7,8,16
+631,635,"participated in a local theater production, proving that the stage belongs to every age. #theaterproduction #senioractor",joy,09-07-2023 22:30,senioractor,facebook,#stagepassion #seniortheater,20,40,usa,2023,7,9,22
+632,636,"embarked on a hiking adventure, conquering trails and relishing the beauty of nature. age is just a number on the mountaintop. #hikingadventure #seniorhiker",excitement,10-07-2023 14:20,seniorhikerexplorer,instagram,#naturetrailblazer #seniorexplorer,28,55,uk,2023,7,10,14
+633,637,hosted a photography exhibition featuring snapshots of a life well-lived. every photo has a story to tell. #photographyexhibition #seniorphotographer,gratitude,11-07-2023 18:45,seniorphotographerexhibitor,twitter,#lifeinpictures #seniorexhibition,22,45,canada,2023,7,11,18
+634,638,"joined a seniors' cycling club, feeling the wind in my hair and the freedom of the open road. #cyclingclub #seniorcyclist",excitement,12-07-2023 13:45,seniorcyclingenthusiast,facebook,#openroadadventures #seniorcycling,25,50,usa,2023,7,12,13
+635,639,"attended a wine tasting event, savoring the richness of flavors that age like fine wine. cheers to the golden years! #winetasting #seniorwinelover",joy,13-07-2023 20:00,seniorwineconnoisseur,instagram,#agedtoperfection #seniorcheers,35,70,uk,2023,7,13,20
+636,640,"started learning ballroom dancing, gliding gracefully across the dance floor. ageless elegance in every step. #ballroomdancing #seniordancer",joy,14-07-2023 16:15,seniorballroomdancer,twitter,#gracefulmoves #seniordance,20,40,usa,2023,7,14,16
+637,641,"organized a community painting event, turning blank canvases into a masterpiece of shared creativity. #paintingevent #seniorartist",joy,15-07-2023 19:30,seniorpaintingorganizer,facebook,#communityart #seniorcreativity,28,55,canada,2023,7,15,19
+638,642,"hosted a 'memory lane' evening with old friends, reminiscing about the adventures that shaped our lives. #memorylane #seniorreminiscing",gratitude,16-07-2023 14:00,seniormemorieshost,instagram,#friendshipadventures #seniornostalgia,30,60,usa,2023,7,16,14
+639,643,"joined a seniors' astronomy club, stargazing and finding wonder in the vastness of the cosmos. #astronomyclub #seniorstargazer",curiosity,17-07-2023 22:15,seniorstargazer,twitter,#celestialwonders #seniorastronomy,18,35,uk,2023,7,17,22
+640,644,"attended a local jazz festival, tapping toes to the tunes that have stood the test of time. music, a lifelong love affair. #jazzfestival #seniormusiclover",joy,18-07-2023 16:30,seniorjazzfestivalgoer,facebook,#timelesstunes #seniorjazz,25,50,usa,2023,7,18,16
+641,645,"started a blog sharing the wisdom gained through the years, proving that every day is a chance to learn and grow. #seniorwisdom #blog",gratitude,19-07-2023 19:45,wisdombloggersenior,instagram,#lifelessons #seniorblog,22,45,uk,2023,7,19,19
+642,646,"participated in a charity run, proving that age is no barrier to supporting meaningful causes. #charityrun #seniorrunner",excitement,20-07-2023 17:00,seniorcharityrunner,twitter,#runforacause #seniorsupport,30,60,canada,2023,7,20,17
+643,647,"survived a challenging physics exam. equations, you won't defeat me!",relief,01-08-2023 13:30,physicswhizhighschool,instagram,#physicssurvivor #highschooladventures,20,40,usa,2023,8,1,13
+644,648,exploring the world of coding. debugging is an adventure on its own! #codingjourney #highschoolcoder,excitement,02-08-2023 14:45,codeexplorerhighschool,twitter,#codingadventure #highschoolcoderlife,25,50,uk,2023,8,2,14
+645,649,"joined the school debate team. words are my weapons, and i'm ready for battle!",excitement,03-08-2023 12:15,debatewarriorhighschool,facebook,#debatewarrior #highschooldebater,18,35,canada,2023,8,3,12
+646,650,"started a photography club at school. capturing moments, one snapshot at a time!",joy,04-08-2023 16:30,photoclubhighschool,instagram,#photographyclub #highschoolphotographer,22,45,usa,2023,8,4,16
+647,651,"daydreaming about the upcoming prom. the dress, the dance – it's a fairytale in the making!",excitement,05-08-2023 19:45,promdreamerhighschool,twitter,#promdreams #highschoolfairytale,30,60,canada,2023,8,5,19
+648,652,convinced the teacher to have class outdoors. learning equations with a side of fresh air!,positive,06-08-2023 14:00,outdoorclasshighschool,facebook,#outdoorclassroom #highschoolexplorer,28,55,usa,2023,8,6,14
+649,653,"accidentally spilled paint in art class. abstract art, right? #artclassadventures #highschoolartist",embarrassed,07-08-2023 19:45,paintspillhighschool,instagram,#artisticmishaps #highschoolart,22,45,uk,2023,8,7,19
+650,654,trying to master the perfect kickflip on my skateboard. skating into the weekend like a pro!,excitement,08-08-2023 16:00,skateprohighschool,twitter,#skaterlife #highschoolskater,30,60,canada,2023,8,8,16
+651,655,bonding with friends over the latest k-pop sensation. fangirling at its finest!,joy,09-08-2023 22:30,kpopfangirlhighschool,facebook,#kpopfangirl #highschoolmusic,20,40,usa,2023,8,9,22
+652,656,spent hours perfecting a chemistry experiment. mixing potions like a wizard!,joy,10-08-2023 14:20,chemistrywizardhighschool,instagram,#chemistrywizard #highschoolscientist,28,55,uk,2023,8,10,14
+653,657,successfully organized a surprise birthday party for a friend. party planning expert mode: achieved!,joy,11-08-2023 18:45,birthdaypartyplannerhighschool,twitter,#birthdayparty #highschoolcelebration,22,45,canada,2023,8,11,18
+654,658,"joined the drama club to unleash my inner actor. lights, camera, action!",excitement,12-08-2023 13:45,dramaclubstarhighschool,facebook,#dramaclubstar #highschoolactor,25,50,usa,2023,8,12,13
+655,659,got my hands on the latest fantasy novel. diving into realms of magic and adventure!,excitement,13-08-2023 20:00,fantasybooknerdhighschool,instagram,#fantasybooknerd #highschoolreader,35,70,uk,2023,8,13,20
+656,660,mastering the art of the perfect doodle during boring classes. doodles: a+!,joy,14-08-2023 16:15,doodlemasterhighschool,twitter,#doodlemaster #highschoolart,20,40,usa,2023,8,14,16
+657,661,attempting to break the school record for the longest handstand. wish me luck!,excitement,15-08-2023 19:30,handstandchallengehighschool,facebook,#handstandchallenge #highschoolathlete,28,55,canada,2023,8,15,19
+658,662,sneaking snacks into class like a pro. the art of snack-smuggling is a sacred skill!,mischievous,16-08-2023 14:00,snacksmugglerhighschool,instagram,#snacksmuggler #highschoolsnacks,30,60,usa,2023,8,16,14
+659,663,hosting a sleepover with friends this weekend. preparing for a night of laughter and memories!,excitement,17-08-2023 22:15,sleepoverhosthighschool,twitter,#sleepoverfun #highschoolmemories,18,35,uk,2023,8,17,22
+660,664,"spent hours on a tiktok dance, only to realize i have two left feet. dance fail: unleashed!",embarrassed,18-08-2023 16:30,tiktokfailhighschool,facebook,#dancefail #highschooltiktok,25,50,usa,2023,8,18,16
+661,665,accidentally liked my crush's old photo while stalking their profile. awkward level: maximum!,embarrassed,19-08-2023 19:45,socialmediablunderhighschool,instagram,#socialmediablunder #highschoolawkward,22,45,uk,2023,8,19,19
+662,666,tried to impress my crush with a smooth conversation. ended up spilling my drink. smooth level: nonexistent!,embarrassed,20-08-2023 17:00,crushfailhighschool,twitter,#crushfail #highschoolembarrassment,30,60,canada,2023,8,20,17
+663,667,mastered the art of creating paper airplanes during lecture. paper planes: soaring to new heights!,joy,21-08-2023 15:45,paperplaneexperthighschool,instagram,#paperplaneexpert #highschoolart,15,30,usa,2023,8,21,15
+664,668,trying to set a new trend by juggling textbooks between classes. academic juggling: a unique skill!,excitement,22-08-2023 12:30,jugglingprohighschool,facebook,#textbookjuggling #highschoolskills,22,40,canada,2023,8,22,12
+665,669,hiding a snack stash in my backpack for emergency cravings. snack ninja mode: activated!,mischievous,23-08-2023 16:45,snackninjahighschool,twitter,#snackninja #highschoolsnacks,28,55,usa,2023,8,23,16
+666,670,planning a surprise scavenger hunt for friends. anticipating the thrill and excitement!,excitement,24-08-2023 18:20,scavengerhuntmasterhighschool,instagram,#surpriseadventure #highschoolfun,20,38,uk,2023,8,24,18
+667,671,danced in the rain to celebrate the end of exams. rain dance: unexpectedly refreshing!,joy,25-08-2023 14:15,raindancecelebrationhighschool,facebook,#raindance #highschooljoy,25,50,canada,2023,8,25,14
+668,672,accidentally sent a text meant for a friend to the class group chat. texting fail: oops moment!,embarrassed,26-08-2023 17:30,groupchatblunderhighschool,twitter,#textingfail #highschoolawkward,18,35,usa,2023,8,26,17
+669,673,tried a magic trick to impress classmates. magic fail: where did that rabbit go?,embarrassed,27-08-2023 20:45,magicfailhighschool,instagram,#magicfail #highschoolmagic,22,45,uk,2023,8,27,20
+670,674,perfecting the art of creating origami during a dull lecture. origami mastery: a+!,joy,28-08-2023 16:00,origamiprohighschool,twitter,#origamimaster #highschoolart,18,36,usa,2023,8,28,16
+671,675,attempting to set a new record for the most consecutive hacky sack kicks. hacky sack skills: unleashed!,excitement,29-08-2023 13:45,hackysackchampionhighschool,instagram,#hackysackchallenge #highschoolathlete,26,48,canada,2023,8,29,13
+672,676,creating a secret handshake with friends. friendship level: expert!,joy,30-08-2023 17:30,secrethandshakehighschool,facebook,#friendshipgoals #highschoolmemories,20,40,usa,2023,8,30,17
+673,677,embarking on a mission to find the best burger joint in town. burger connoisseur: reporting for duty!,excitement,31-08-2023 20:15,burgerquesthighschool,twitter,#burgerquest #highschoolfoodie,24,42,uk,2023,8,31,20
+674,678,practicing a stand-up comedy routine for the upcoming talent show. comedy gig: in the making!,joy,01-09-2023 14:45,comedygeniushighschool,instagram,#standupcomedy #highschooltalent,21,39,canada,2023,9,1,14
+675,679,accidentally sent a love letter to the wrong person. love note fail: maximum embarrassment!,embarrassed,02-09-2023 18:30,loveletterblunderhighschool,facebook,#loveletterfail #highschoolawkward,17,33,usa,2023,9,2,18
+676,680,attempting to impress the teacher with an elaborate science experiment. science geek mode: activated!,excitement,03-09-2023 22:00,scienceexperimentprohighschool,twitter,#sciencegeek #highschoolexperiments,23,44,uk,2023,9,3,22
+677,681,crafting intricate friendship bracelets for the whole squad. friendship level: expert weaver!,joy,04-09-2023 15:15,braceletcraftsmanhighschool,instagram,#friendshipbracelets #highschoolcrafts,19,37,usa,2023,9,4,15
+678,682,attempting to beat the record for the most consecutive cartwheels. cartwheel challenge: underway!,excitement,05-09-2023 12:30,cartwheelmasterhighschool,twitter,#cartwheelchallenge #highschoolathlete,27,52,canada,2023,9,5,12
+679,683,organizing a movie marathon with friends. popcorn and cinematic adventures await!,joy,06-09-2023 16:45,moviemarathonhosthighschool,facebook,#movienight #highschoolmemories,22,43,uk,2023,9,6,16
+680,684,experimenting with a new hair color. a bold change for a bold semester!,excitement,07-09-2023 18:20,haircolorexperimenthighschool,instagram,#hairexperiment #highschoolstyle,20,39,usa,2023,9,7,18
+681,685,building a time capsule to capture memories for the future. time-traveling emotions!,joy,08-09-2023 14:15,timecapsulecreatorhighschool,facebook,#timecapsule #highschoolnostalgia,26,48,canada,2023,9,8,14
+682,686,accidentally walked into the wrong classroom on the first day. classroom mix-up: awkward start!,embarrassed,09-09-2023 17:30,classroomblunderhighschool,twitter,#firstdayoops #highschoolembarrassment,16,32,usa,2023,9,9,17
+683,687,trying out a new smoothie recipe for a healthy start to the week. smoothie enthusiast: level up!,excitement,10-09-2023 20:45,smoothieconnoisseurhighschool,instagram,#healthyliving #highschoolwellness,23,42,uk,2023,9,10,20
+684,688,reflecting on the challenges of the school year. feeling a bit overwhelmed with assignments.,sad,11-09-2023 15:45,overwhelmedhighschoolstudent,twitter,#schoolchallenges #highschoolstruggles,15,28,usa,2023,9,11,15
+685,689,encountered some mean-spirited comments online. dealing with online hate is never easy.,hate,12-09-2023 12:30,dealingwithhatehighschool,instagram,#onlinehate #highschoolreality,18,36,canada,2023,9,12,12
+686,690,had a bad day at school. everything seems to be going wrong.,bad,13-09-2023 16:45,toughdayhighschool,facebook,#badday #highschoolblues,20,40,uk,2023,9,13,16
+687,691,feeling down after not making the sports team. disappointment lingers.,sad,14-09-2023 18:20,sportsteamrejectionhighschool,twitter,#disappointment #highschoolsports,17,34,usa,2023,9,14,18
+688,692,witnessed a heated argument in the cafeteria. unpleasant atmosphere at lunch.,hate,15-09-2023 14:15,cafeteriaconflicthighschool,instagram,#cafeteriadrama #highschooltension,21,41,canada,2023,9,15,14
+689,693,received a not-so-great grade on a major project. academic frustration setting in.,bad,16-09-2023 17:30,projectgradedisappointmenthighschool,facebook,#academicfrustration #highschoolstress,19,38,uk,2023,9,16,17
+690,694,dealing with a personal setback. sometimes life throws unexpected challenges.,sad,17-09-2023 20:45,personalsetbackhighschool,twitter,#lifechallenges #highschoolstruggles,22,44,usa,2023,9,17,20
+691,695,feeling lonely on a saturday night. sometimes solitude hits harder than expected.,sad,18-09-2023 22:00,lonelysaturdayhighschool,instagram,#lonelynights #highschoolemotions,16,31,canada,2023,9,18,22
+692,696,experiencing cyberbullying. hateful messages online are disheartening.,hate,19-09-2023 15:15,cyberbullyingvictimhighschool,facebook,#stopcyberbullying #highschoolreality,14,27,uk,2023,9,19,15
+693,697,caught in a torrential rainstorm without an umbrella. today's weather is just bad luck.,bad,20-09-2023 12:30,rainydayblueshighschool,twitter,#badluck #highschoolweather,18,35,usa,2023,9,20,12
+694,698,missing an important event due to unforeseen circumstances. a day filled with sadness.,sad,21-09-2023 16:45,missedopportunityhighschool,instagram,#missedchances #highschoolregret,20,39,canada,2023,9,21,16
+695,699,dealing with unfounded rumors circulating about personal life. rumors can be hurtful.,hate,22-09-2023 18:20,rumorvictimhighschool,facebook,#rumormills #highschooldrama,23,46,uk,2023,9,22,18
+696,700,got a flat tire on the way to an important meeting. talk about a series of bad events!,bad,23-09-2023 14:15,flattirewoeshighschool,twitter,#badluckday #highschoolstruggles,25,50,usa,2023,9,23,14
+697,701,feeling a sense of emptiness after a close friend moves away. farewells are always sad.,sad,24-09-2023 17:30,friendmovingawayhighschool,instagram,#sayinggoodbye #highschoolemotions,21,42,canada,2023,9,24,17
+698,702,facing rejection from a dream college. disheartened but determined to explore other paths.,sad,25-09-2023 20:45,collegerejectionhighschool,facebook,#collegedreams #highschooljourney,19,37,uk,2023,9,25,20
+699,703,encountering online toxicity during a gaming session. hateful comments can ruin the fun.,hate,26-09-2023 14:15,gamingtoxicityhighschool,twitter,#onlinegaming #highschoolgamer,16,32,usa,2023,9,26,14
+700,704,having a bad hair day and feeling self-conscious. bad hair days can affect confidence.,bad,27-09-2023 17:30,badhairdayblueshighschool,instagram,#badhairday #highschoolconfidence,18,36,canada,2023,9,27,17
+701,705,feeling a sense of despair after a major project failure. hard work didn't pay off this time.,sad,28-09-2023 22:00,projectfailuredespairhighschool,facebook,#projectstruggles #highschoolhardships,21,41,uk,2023,9,28,22
+702,706,experiencing hate comments for expressing personal opinions. online negativity prevails.,hate,29-09-2023 15:45,opinionshatehighschool,twitter,#onlineopinions #highschoolcriticism,24,48,usa,2023,9,29,15
+703,707,having a string of bad luck with constant technology malfunctions. tech troubles galore!,bad,30-09-2023 18:20,techmalfunctionwoeshighschool,instagram,#techissues #highschooltech,22,43,canada,2023,9,30,18
+704,708,missing out on a long-anticipated event due to unexpected circumstances. a day filled with sadness.,sad,01-10-2023 14:15,missedeventblueshighschool,facebook,#missedmoments #highschoolregret,20,39,uk,2023,10,1,14
+705,709,trying out a new study technique for upcoming exams. exploring different learning strategies.,neutral,02-10-2023 16:45,studytechniqueexperimenthighschool,instagram,#studystrategies #highschoolexams,23,42,usa,2023,10,2,16
+706,710,organizing a community cleanup event for a cleaner neighborhood. promoting environmental awareness.,neutral,03-10-2023 12:30,communitycleanuphighschool,twitter,#environmentalefforts #highschoolcommunity,26,50,canada,2023,10,3,12
+707,711,sharing favorite book recommendations with classmates. building a mini book club.,neutral,04-10-2023 18:20,bookrecommendationshighschool,facebook,#bookclub #highschoolreads,19,38,uk,2023,10,4,18
+708,712,experimenting with a new recipe for a school bake sale. baking adventures in the kitchen.,neutral,05-10-2023 14:15,bakesalerecipeexperimenthighschool,instagram,#bakingadventures #highschoolbakes,21,43,usa,2023,10,5,14
+709,713,collaborating on a school project with peers. teamwork makes the dream work.,neutral,06-10-2023 17:30,schoolprojectcollaborationhighschool,twitter,#teamwork #highschoolprojects,18,36,canada,2023,10,6,17
+710,714,attending a school club meeting to explore new interests. dabbling in extracurricular activities.,neutral,07-10-2023 20:45,extracurricularexplorationhighschool,instagram,#schoolclubs #highschoolinterests,22,45,uk,2023,10,7,20
+711,715,exploring a new part-time job opportunity for gaining work experience. career development in progress.,neutral,08-10-2023 15:15,parttimejobexplorationhighschool,facebook,#careerdevelopment #highschooljobs,24,48,usa,2023,10,8,15
+712,716,attending a school assembly to stay informed about upcoming events and announcements. staying connected with school activities.,neutral,09-10-2023 22:00,schoolassemblyparticipationhighschool,twitter,#schoolevents #highschoolconnectivity,20,40,canada,2023,10,9,22
+713,717,exploring a new hobby of photography during free time. capturing moments through a lens.,neutral,10-10-2023 14:15,photographyhobbyhighschool,instagram,#photographyjourney #highschoolhobbies,25,49,uk,2023,10,10,14
+714,718,participating in a science fair to showcase a unique experiment. sharing knowledge with peers.,neutral,11-10-2023 16:45,sciencefairparticipationhighschool,facebook,#sciencefair #highschoolscience,19,37,usa,2023,10,11,16
+715,719,attending a workshop on time management to enhance organizational skills. striving for efficiency.,neutral,12-10-2023 18:20,timemanagementworkshophighschool,twitter,#efficiencygoals #highschoolskills,23,44,canada,2023,10,12,18
+716,720,volunteering at a local charity event to give back to the community. contributing to social causes.,neutral,13-10-2023 12:30,charityeventvolunteerhighschool,instagram,#communityservice #highschoolvolunteer,20,39,uk,2023,10,13,12
+717,721,collaborating on a group project to promote teamwork and shared responsibilities. group effort in action.,neutral,14-10-2023 17:30,groupprojectcollaborationhighschool,facebook,#teamspirit #highschoolprojects,18,35,usa,2023,10,14,17
+718,722,participating in a debate club to enhance critical thinking and communication skills. intellectual engagement in progress.,neutral,15-10-2023 20:45,debateclubparticipationhighschool,twitter,#debateskills #highschoolintellect,22,43,canada,2023,10,15,20
+719,723,celebrating a friend's birthday with a surprise party. joyful moments and laughter all around!,happy,16-10-2023 15:45,birthdaysurprisehighschool,instagram,#surpriseparty #highschoolcelebration,27,52,uk,2023,10,16,15
+720,724,successfully completing a challenging coding project. excitement for overcoming coding hurdles!,happy,17-10-2023 12:30,codingsuccesshighschool,twitter,#codingtriumph #highschooltech,24,48,usa,2023,10,17,12
+721,725,attending a school talent show to support classmates. applauding the diverse talents on display!,happy,18-10-2023 16:45,talentshowsupporthighschool,facebook,#talentshow #highschoolentertainment,19,38,canada,2023,10,18,16
+722,726,"exploring a new hiking trail with friends over the weekend. nature, laughter, and good vibes!",happy,19-10-2023 18:20,weekendhikehighschool,instagram,#natureadventures #highschoolfriends,21,42,uk,2023,10,19,18
+723,727,winning a friendly sports competition against rival schools. victory celebrations in full swing!,happy,20-10-2023 14:15,sportsvictoryhighschool,twitter,#sportstriumph #highschoolathletics,26,50,usa,2023,10,20,14
+724,728,receiving a heartfelt letter from a pen pal in another country. connecting across the globe!,happy,21-10-2023 17:30,penpalconnectionhighschool,facebook,#globalfriendship #highschoolcorrespondence,23,45,canada,2023,10,21,17
+725,729,creating a beautiful mural with fellow art enthusiasts. the power of collaboration and creativity!,happy,22-10-2023 20:45,muralcreationhighschool,instagram,#artcollaboration #highschoolcreativity,22,43,uk,2023,10,22,20
+726,730,participating in a school-wide art exhibition. witnessing creativity and spreading positive vibes!,happy,10-11-2015 16:45,artexhibitionjoyhighschool,instagram,#artisticexpression #highschoolcreativity,23,44,usa,2015,11,10,16
+727,731,achieving a personal best in a track and field competition. the thrill of victory and self-improvement!,happy,14-09-2016 12:30,trackfieldsuccesshighschool,twitter,#athleticachievement #highschoolsports,26,51,canada,2016,9,14,12
+728,732,collaborating on a science project that received recognition at a regional fair. science triumphs and smiles!,happy,18-08-2017 18:20,scienceprojectsuccesshighschool,facebook,#sciencefairwinner #highschoolscience,20,39,uk,2017,8,18,18
+729,733,"attending a surprise birthday party organized by friends. surrounded by love, laughter, and good company!",happy,22-06-2018 14:15,birthdaypartyjoyhighschool,instagram,#surprisecelebration #highschoolfriendship,25,48,usa,2018,6,22,14
+730,734,successfully fundraising for a school charity initiative. the joy of giving back to the community!,happy,05-04-2019 17:30,charityfundraisingtriumphhighschool,twitter,#communitygiving #highschoolphilanthropy,22,42,canada,2019,4,5,17
+731,735,"participating in a multicultural festival, celebrating diversity with music, dance, and delicious food!",happy,29-02-2020 20:45,multiculturalfestivaljoyhighschool,facebook,#culturalcelebration #highschoolunity,21,43,uk,2020,2,29,20
+732,736,"organizing a virtual talent show during challenging times, bringing smiles to classmates' faces!",happy,15-11-2020 15:15,virtualtalentshowsuccesshighschool,instagram,#virtualentertainment #highschoolpositivity,24,47,usa,2020,11,15,15
